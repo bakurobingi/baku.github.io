@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 負け猫鳴らず</title>
-    <link>http://robaku.site/categories/</link>
+    <link>https://robaku.site/categories/</link>
     <description>Recent content in Categories on 負け猫鳴らず</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>©2023 棺生バク.</copyright><atom:link href="http://robaku.site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©2023 棺生バク.</copyright><atom:link href="https://robaku.site/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
