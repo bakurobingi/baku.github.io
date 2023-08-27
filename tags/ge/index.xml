@@ -7,16 +7,1369 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2023 棺生バク.</copyright>
-    <lastBuildDate>Sat, 31 Dec 2016 11:22:19 +0800</lastBuildDate><atom:link href="https://robaku.site/tags/ge/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2016 11:22:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://robaku.site/tags/ge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Hello，Hugo！博客搬迁小记</title>
+      <link>https://robaku.site/posts/%E6%90%AC%E8%BF%81%E5%B0%8F%E8%AE%B0/</link>
+      <pubDate>Sun, 27 Aug 2023 17:37:37 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E6%90%AC%E8%BF%81%E5%B0%8F%E8%AE%B0/</guid>
+      <description>&lt;p&gt;啊我又双搬家了&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.nya.coffee/custom_emojis/images/000/001/084/original/a6cafaee8f23e4b5.png&#34; alt=&#34;:chaofeng:&#34;&gt;&lt;/p&gt;
+&lt;p&gt;其实距离wordpress服务器到期还有大约三个月时间，但本着未雨绸缪（？）的精神，还是趁着周末在家值班研究了一下Hugo，并成功搬迁！&lt;/p&gt;
+&lt;p&gt;选择Hugo的主要原因还是穷，弃wp也是出于此。这半年工作危机，直接导致我财布紧缩（&lt;del&gt;虽然游戏还是照买&lt;/del&gt;），wp虽然功能齐全，插件多多，白痴如我也能轻松建站，但请恕嫔妾养不起，毕竟就是一个堆图发牢骚的小树洞，租云服务器来养有些奢侈。&lt;/p&gt;
+&lt;p&gt;四处游荡了一番后，在回写意类writefreely平台博客、Bear Blog、自己学习搭Hugo静态网站间，我还是选择了有学习成本的Hugo。一是，用平台总会有寄居人下的感觉，曾经在写意出现过更博欲望爆发结果平台服务器down的悲惨遭遇，加上一些不言自明的形势原因，万一被网管架出去无法直连也挺难过的；二是手里有一台Mac，搭Hugo方便了那么🤏🏻吧，大概，May be？加上利用Github发布，我只需要掏一个域名钱就能解决问题，图床继续沿用了写意时代的存储桶，一个月花费也只有几毛几分，有零有整。&lt;/p&gt;
+&lt;p&gt;然后就是漫长的学习过程（=一天），一切代码都是无师自蒙，看了100个教学博文，掉了一百个坑，这站子居然还真被我搭起来了（鼓掌。大概诸位兄台没见过像我这样的英文盲，读码看说明还要打开DeepL翻译器，回想起过程实乃生草。&lt;/p&gt;
+&lt;p&gt;主题选择了一个超简洁的，其实我对这种simple设计很来电，就是连博文摘要都没有纯粹堆叠的样式就很好，加上Tags收纳与归档，完美。&lt;/p&gt;
+&lt;p&gt;评论功能导入还在研究（可能是研究不明白的），算了本质自嗨博客，一没人看二无人理睬，也没必要加这么让自己感到寂寞的功能（抹泪。其实是想Menu超链接一下提问箱，但是我想不起来以前用的那个简洁款箱子的网址，悲伤。&lt;/p&gt;
+&lt;p&gt;迁移博文时发现我又好久没读书了，连漫画都没怎么看，从6月底打完狒狒16开始，身体就不时发生故障，7月说调整一下，努力锻炼+调整饮食一个月，结果没想到8月直接急性咽炎发高烧、连夜咳嗽，比阳了还难受，这狒狒16真是有毒（x。9月慢慢恢复一下，增加些阅读时间吧，&lt;del&gt;虽然9月后要打的游戏还挺多的（笑）。&lt;/del&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    <item>
+      <title>《永恒传说》通关</title>
+      <link>https://robaku.site/posts/%E6%B0%B8%E6%81%92%E4%BC%A0%E8%AF%B4%E9%80%9A%E5%85%B3/</link>
+      <pubDate>Wed, 16 Aug 2023 17:38:00 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E6%B0%B8%E6%81%92%E4%BC%A0%E8%AF%B4%E9%80%9A%E5%85%B3/</guid>
+      <description>&lt;p&gt;老规矩先放通关纪念图，是可爱的基尔和梅露蒂，本作我最喜欢的搭档。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2Fkanseibaku-1691681061611467106-img1.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;没想到吧，这里有人在3202年打PSP游戏。&lt;/p&gt;
+&lt;p&gt;非常喜欢随着旅途在两个世界与镜面间移动时游戏存档插图跟着变化这个小细节，Q版的6人也可爱得很。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2Fpic_0076.jpg&#34; alt=&#34;pic_0022.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2Fpic_0022.jpg&#34; alt=&#34;pic_0022.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2Fpic_0074.jpg&#34; alt=&#34;pic_0022.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;起因十分简单，就是在品味完宇宙无敌世界顶级系列最高峰的“吉”RPG《最终幻想16》后，被深深震撼到了，突然觉得系列普中普之《破晓传说》都变得眉清目秀起来。仔细回味，我们传说系列真是太好玩了！于是翻出了我的老相棒小P，曾经熟悉的安装流程一气呵成，再次打开TOE，踏上少年少女救世之旅。&lt;/p&gt;
+&lt;p&gt;整个游戏过程快乐无比，像素画面演出也依旧让冒险感十足，在迷宫中解谜失败误入歧途、没有事前准备好对策而在BOSS战意外翻车、在组搭装备&amp;amp;调配晶灵魔法时一遍遍试错、在篝火前倾听队友间趣味十足的聊天skit。啊，这才是我喜欢的JRPG的味道。&lt;/p&gt;
+&lt;p&gt;TOE的故事线其实很简单直白，可以用“王道”来概括，没有那么多传说系列后来常见的晦涩世界设定，也没有太多队友间的背叛离合勾心斗角。即便如此每个角色的形象依然立体。&lt;/p&gt;
+&lt;p&gt;例如放在当年来说，有点偏离传统热血路线主角，在RPG游戏里讲出禁忌之言“这种事交给皇帝来处理就好了”、每每总想着远离喧嚣回老家当一名普通猎师的里德，后期的成长让人刮目，而且还是石田彰呢。&lt;/p&gt;
+&lt;p&gt;还有天资聪颖但身体赢弱的基尔，也算是JRPG里蛮少见的队友设定，虽然头脑过人擅于学习，但除此以外毫无特色，连魔法都是如果没有晶体便无法使用，不能用魔法便毫无战斗能力，所谓队伍中最普通人的普通人。但是看到基尔为了一开始还难以信任的他人，选择毁掉线索背弃自己梦想学府时，我确实有些被打动，而且还是保志总一朗呢。&lt;/p&gt;
+&lt;p&gt;最后贴一下本作中最喜欢的台词来结尾吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2Fpic_0054.jpg&#34; alt=&#34;pic_0054.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;啊对不起放错了，是这个：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2Fpic_0102.jpg&#34; alt=&#34;pic_0102.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;別れは終わりではない
+永久に想うことこそ
+共にあるということなのだ&lt;/p&gt;
+&lt;p&gt;离别并非结束，永远的思念才是我们一直在一起的证明。&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>什么时候能转生成凯大大养的猪兔</title>
+      <link>https://robaku.site/posts/%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%83%BD%E8%BD%AC%E7%94%9F%E6%88%90%E5%87%AF%E5%A4%A7%E5%A4%A7%E5%85%BB%E7%9A%84%E7%8C%AA%E5%85%94/</link>
+      <pubDate>Sat, 17 Jun 2023 20:20:38 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%83%BD%E8%BD%AC%E7%94%9F%E6%88%90%E5%87%AF%E5%A4%A7%E5%A4%A7%E5%85%BB%E7%9A%84%E7%8C%AA%E5%85%94/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2FIMG_2364-scaled.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;灵感如题(´・ω・｀)&lt;/p&gt;
+&lt;p&gt;我就是凯大大的梦…………猪！！&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>凯様！</title>
+      <link>https://robaku.site/posts/%E5%87%AF%E6%A7%98/</link>
+      <pubDate>Wed, 03 May 2023 20:41:52 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E5%87%AF%E6%A7%98/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2Fbakurobingi-1654150368610119680-img1.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10多年没画过了，只要你坚持下去，就能有一天（&lt;del&gt;勉强&lt;/del&gt;）画出你推帅气的模样！&lt;/p&gt;
+&lt;p&gt;最近又开始发病了，我永远喜欢凯大大！！！&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>画画花道</title>
+      <link>https://robaku.site/posts/%E7%94%BB%E7%94%BB%E8%8A%B1%E9%81%93/</link>
+      <pubDate>Sun, 30 Apr 2023 21:44:37 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E7%94%BB%E7%94%BB%E8%8A%B1%E9%81%93/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2Fbakurobingi-1652702339646771201-img1.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;终于如愿以偿在电影院里看了SD的剧场版&lt;/p&gt;
+&lt;p&gt;会动的山王战！尽管有小小的遗憾，但还是很好看的&lt;/p&gt;
+&lt;p&gt;首刷结束那个晚上真令我难以忘怀，明明观看中情绪波动没有那么强烈，没想到走出影院，在站牌底下等公交车时却百感涌上心头，就那样在夜晚的街上哭了出来&lt;/p&gt;
+&lt;p&gt;谢谢你花道！&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>读书杂想：《傲慢与善良》</title>
+      <link>https://robaku.site/posts/%E8%AF%BB%E4%B9%A6%E6%9D%82%E6%83%B3%E5%82%B2%E6%85%A2%E4%B8%8E%E5%96%84%E8%89%AF/</link>
+      <pubDate>Wed, 12 Apr 2023 09:25:08 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E8%AF%BB%E4%B9%A6%E6%9D%82%E6%83%B3%E5%82%B2%E6%85%A2%E4%B8%8E%E5%96%84%E8%89%AF/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2FQQ%E6%88%AA%E5%9B%BE20230412202505.jpg&#34; alt=&#34;读书杂想：《傲慢与善良》&#34;&gt;&lt;/p&gt;
+&lt;p&gt;好久没有读正经（？）书了，虽然去年年末补过一本正经本格派推理小说，但并没受到这次一般的冲击。&lt;/p&gt;
+&lt;p&gt;因为我读书总是东抓一本西翻一页的，且很多时候是功利地慕名而去，没有刻意去追过某位特定作家的作品，对辻村深月也是如此。而且可能由于是非正规渠道获得的电子版，作品本篇后并没有作者的后记，还是在我购买的辻村其他作品中才找到关于她的介绍。是的，看到“她”的时候稍微吃惊的了一下，细想也觉得合情合理。&lt;/p&gt;
+&lt;p&gt;《傲慢与善良》这本书从很多意味上和我一开始的预想像偏离甚远，因为它被书店（这里指线上）划分到了悬疑推理，尽管推荐文案写明了”爱情故事“，但我着实没想到其实没啥悬疑，完全是在讲爱情。至于已经对男女恋爱脱敏的我为何还会被这本书触动，大概就是”到年纪了“。&lt;/p&gt;
+&lt;p&gt;一开始因为男主角迫于结婚的心理描写让我差点以为这是什么催婚课本弃书而逃，后来调整了一下读书的心态，不过是作者描写的一个人物像罢了，现实中这种人不也满地跑吗，再坚持一下，品品剧情。&lt;/p&gt;
+&lt;p&gt;书的整个故事理下来其实非常简洁明了，就是一对已经过了“黄金适婚年龄”，通过相亲（婚活）打算组成家庭的男女，因为双方“不谙世事”的人格，导致期间一波三折。所幸的是，作为“恋爱”小说，内容没有那么酸臭，让我能拥有还算舒适的阅读过程。不过对于热爱“虚构”的我，显然这是一本过于“现实”的书籍。&lt;/p&gt;
+&lt;p&gt;但书里很多文字还是让我读后颇为受益。&lt;/p&gt;
+&lt;p&gt;我也是进入30代的大龄二次元了，家乡是北方小城市，常被爹妈催婚，此外虽然羞于启齿，但我曾经也算是个活脱脱的“妈宝儿”。所以，无论是本作的男主还是女主，我都能从他们身上找到一点与我共通的缺陷。例如，被爹妈控制毫无自我意志的青少年时代，明明有自卑倾向却又在心底暗藏某种“傲慢”感，对未来从不深入规划却能对眼前危机放慢心态得过且过的“迟钝”。特别是书中有一段，女主遭遇婚姻危机，惊觉尽管自己平时聊天投机的对象不少，却没有敢敞开心扉哭诉自己“窝囊事”的朋友，不由得让我也跟着心生一抹悲凉：&lt;/p&gt;
+&lt;p&gt;“哈哈好惨哦.jpg，跟我一模一样。”&lt;/p&gt;
+&lt;p&gt;虽然宣传语写得了不起，但我觉得作品并没有为问题给出最正解，夹杂了一些作者赐予的”都合“才算圆满收场，故事本身感觉也很难用“精彩”二字形容。但是书本想表达的思想还是值得品味的：&lt;/p&gt;
+&lt;p&gt;不管你最终选择跟随社会大众，和谁结婚共度一生，还是坚持不婚热爱孤独，其实都可以……&lt;/p&gt;
+&lt;p&gt;在我读过的另一本书中也写道的：”当你进行【选择】时，就要做好后悔的觉悟，不伴有后悔的选择是不存在的，假如真的有，那一定是那个人其实根本没有做出任何选择。“&lt;/p&gt;
+&lt;p&gt;不是因为父母之言、环境所逼，也不是因为任何社会默认规则、SNS或者说时代的趋势潮流自然而然地走在了某条路上，重要的是你【自己】做出判断，决定怎么做。&lt;/p&gt;
+&lt;p&gt;简单的几句鸡汤，将其融入一段故事之中再让你饮用，感觉就好吸收了不少呢。&lt;/p&gt;
+&lt;p&gt;突然想到，其实《赌博默示录 开司》也是一种社会人性写实批判类的作品，莫非我其实还挺喜欢这种题材。毕竟一直钟情于里见直先生的游戏脚本，也是因为一些贴近“现实”的写照。夹杂着现实沉重的虚构故事，总感觉会尤为令人动容。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;最后摘抄记录点书中喜欢的内容：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;所谓“不是对的人”，就是说这句话的人给自己定的价格。说价格可能难听了点，也可以换成分数。说这话的人下意识给自己打了分数，若遇上的对象不及自己的分数，他就会说对方“不是对的人”。意思是——我的价值没那么低，得来个价值更高的对象才配得上我。 嘴上说着自己想要的只是小小的幸福，但大家给自己定的价格可都蛮高的。对的人，不对的人，这种感觉就像把对方当成镜子，映出的是每个人的自我评价。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;现代日本，人与人之间已经没有明显的阶级差异，但每个人都太重视自己的价值观，每个人都很傲慢。另一方面，活得越善良的人越听从父母的话，任由别人决定自己的事，成为没有自我的人。傲慢和善良这两种矛盾的特质经常同时存在同一个人身上，现在就是这样一个不可思议的时代。 那种善良如果过了头，或许就成了不谙世事，可以说是无知。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;总算明白社交网站的可怕，就连那种私底下写给自己开心的内容，也会被别人看到，还解读成当事人完全没有的想法。&lt;/li&gt;
+&lt;li&gt;架倒吸了有生以来最深的一口气，感觉就像这口气吸进身体里某个地方消失了，再度开口时，什么都呼不出来。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>《P3P》白金纪念</title>
+      <link>https://robaku.site/posts/p3p%E7%99%BD%E9%87%91%E7%BA%AA%E5%BF%B5/</link>
+      <pubDate>Mon, 10 Apr 2023 09:33:42 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/p3p%E7%99%BD%E9%87%91%E7%BA%AA%E5%BF%B5/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2FFrlYNdOaIAEK8Sc.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2FFtR-c5PaQAA7ByX.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;然后借机写一些无病呻吟，毕竟已有两个月没更过Blog。&lt;/p&gt;
+&lt;p&gt;磨蹭了一个多月（应该有这么久吧）终于画完的，看了眼毛象上的记录，白金是在2月底达成的，3月也没打什么游戏，书读了两本厕纸，你说过得浑浑噩噩吧，倒没有，但也不怎么充实就是了。至于发布的这天传出P3 Remake的视频纯属一些命运上偶然（？）。&lt;/p&gt;
+&lt;p&gt;想了想最后还是把鬼太郎和哈姆子两方都画了，详细的游戏repo先在&lt;a href=&#34;https://nya.coffee/@robingi/109931363599764884&#34;&gt;毛象&lt;/a&gt;写过了。&lt;/p&gt;
+&lt;p&gt;稍微写点画完的教训总结，两张图用了两种完全不同的勾线笔，对比下来，我果然更喜欢那种可以增加情报量、稍微毛躁一点的笔刷，勾线时也不太喜欢一笔到底的丝滑感，能保留手绘的那种感觉最好。只是画了好多年，这种一笔到底、僵硬无比的勾线法还没改过来，不过比起以前的图还是自然很多了，再多练习一下。然后就是关于阴影，这次二影的绘制比以前上手了很多，有点找到了属于自己的小窍门，怪开心的。&lt;/p&gt;
+&lt;p&gt;最近很喜欢wb上转发的一张さいとうなおき老师鼓励新人的发言图，大意是说即便技巧不好，但勇于发表，更容易让自己坚持下来，反而不画出一流作品就不投稿的人，都逐渐消失在了洪流中。另外一本以教授绘画心态&amp;amp;习惯为主的书里也写道，画画时不要想着能画出超越以往、品质最佳的图，不可能每次都能超水平发挥，这样给自己施加压力反而会打消积极性。言而总之，你还在忙碌之余抽空画画，这已经是你喜欢画画的表现，那就单纯享受做喜欢事情这个过程就是最好的。&lt;/p&gt;
+&lt;p&gt;这两段都给予了我不少勇气，既然已经决定今年削减游戏时间去画画与读书了，那就再接再厉。&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>最近摸的图</title>
+      <link>https://robaku.site/posts/%E6%9C%80%E8%BF%91%E6%91%B8%E7%9A%84%E5%9B%BE/</link>
+      <pubDate>Mon, 16 Jan 2023 09:36:28 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E6%9C%80%E8%BF%91%E6%91%B8%E7%9A%84%E5%9B%BE/</guid>
+      <description>&lt;p&gt;打架打进垃圾堆的洋平&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2F109099200_p0.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;一百年没画过女人了试笔摸摸酷女人&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88ppp.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;每次画画都在尝试不同的工具与画法……一直固定不下来吧但画完看起来又风格差不多，笑死&lt;/p&gt;
+&lt;p&gt;不过最近更加理解了一件事，练习基础好重要该继续速起来了&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>迟到一周的新年贺图（赤开）</title>
+      <link>https://robaku.site/posts/%E8%BF%9F%E5%88%B0%E4%B8%80%E5%91%A8%E7%9A%84%E6%96%B0%E5%B9%B4%E8%B4%BA%E5%9B%BE/</link>
+      <pubDate>Sat, 07 Jan 2023 09:41:25 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E8%BF%9F%E5%88%B0%E4%B8%80%E5%91%A8%E7%9A%84%E6%96%B0%E5%B9%B4%E8%B4%BA%E5%9B%BE/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2FIMG_0692-scaled.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;瞎几把画得很爽（草。&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Hello，2023！</title>
+      <link>https://robaku.site/posts/hello2023/</link>
+      <pubDate>Mon, 02 Jan 2023 09:50:43 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/hello2023/</guid>
+      <description>&lt;p&gt;让我也来跟风写一篇这样的博文好了&lt;/p&gt;
+&lt;p&gt;其实是今天把SD又重温完毕，略有所感就想随手码一些字，唔，倒也不是什么重大感悟，甚至逻辑混乱&lt;/p&gt;
+&lt;p&gt;2022年还能在游戏与工作的之余去画点图，现在想想心态转变真是托福本伸行老师的福&lt;/p&gt;
+&lt;p&gt;当然不是之前一直开玩笑说的“不管画多丑反正都比原作者画得好看。”&lt;/p&gt;
+&lt;p&gt;仅仅是实在太喜欢老师笔下的故事与角色，让我停不住地想把我心目中的他们绘制下来&lt;/p&gt;
+&lt;p&gt;我的画自认为没什么灵气在，也从没有体验过那种如雷灌顶天赐灵感下笔如神的感觉&lt;/p&gt;
+&lt;p&gt;可今年不太一样，就算画完回过头来看是“黑历史”的东西，我在画的途中却是无比快乐的&lt;/p&gt;
+&lt;p&gt;画得赤木茂眼神稍微犀利了一点、开司的姿势可能帅气了一些都能让我开心得打滚，心情大概就和追星族抓拍到推超美的侧颜一般（乐。&lt;/p&gt;
+&lt;p&gt;然后就想再试着画画以前很喜欢的一些角色们&lt;/p&gt;
+&lt;p&gt;不过也导致我对画完后的成品关心度越来越低，只想收纳起来留作纪念，也没什么多余的社交能量和同好互动&lt;/p&gt;
+&lt;p&gt;说道想起来孤独摇滚里有个片段，酷女人每次都会找不同借口推脱一些集体性质的活动，本人完全如出一辙，当然我并不酷只是享受个人时间的自私鬼罢了&lt;/p&gt;
+&lt;p&gt;我相当不喜欢戴着各式假面经营人际，还是随心冒泡随心潜水最适合老子，在此感谢每个现在还愿意和这家伙做朋友的人&lt;/p&gt;
+&lt;p&gt;显然这样是不适合混迹社会的（笑。&lt;/p&gt;
+&lt;p&gt;以前每每在小群里观三次元朋友们探讨国政家策我都立马噤声&lt;/p&gt;
+&lt;p&gt;然后看看不小年纪还手里捧着SD漫画为樱木一举一动嘎嘎大笑的自己&lt;/p&gt;
+&lt;p&gt;就会有“啊，这家伙果然被抛离了。”的声音在角落里响起&lt;/p&gt;
+&lt;p&gt;但会有更大的声音在喊：“无所谓啦，这种狗屎一样的世界，当我被现实打趴在地上的时候再去见棺落泪就好了！”&lt;/p&gt;
+&lt;p&gt;2023年的我，也还想继续为别人的故事流泪欢笑，不管是在游戏、漫画还是小说里&lt;/p&gt;
+&lt;p&gt;感觉只要还能继续爱着这些精彩的fiction，这个狗屎一样的现实就还有很多乐趣在&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>2022年年终总结</title>
+      <link>https://robaku.site/posts/2022%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Sat, 31 Dec 2022 09:53:06 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/2022%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
+      <description>&lt;p&gt;一年一度的年终总结时间到。&lt;/p&gt;
+&lt;p&gt;换了新博客，又可以有一段时间沉浸在喜新的情绪中了。&lt;/p&gt;
+&lt;p&gt;今年真的发生了太多事情，抗疫三年期间，即便是在北漂居所不定期变迁的情况下，我都一直没有遇到封控。就在为这种侥幸偷乐时，没想却在10月回乡探亲之际被捉拿入狱，这一关就是两个多月，最后等来的并非刑满出狱，而是直接大赦天下。获取自由的同时，需要支付的代价也巨大。回到北京不足一周就被舍友传染得病，目前还在缓慢康复之中。&lt;/p&gt;
+&lt;p&gt;康复期间又第n次开始重温SD，曾经看过一个说法：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;沉湎于怀旧是因为对未来不抱有希望。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;可以说正是我现在的状态，及时行乐，躺平度日，开心即可，活着就好&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2FQQ20221231-0.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;不过就宅宅生活而言，这一年还是十分充实的，通关游戏数量也蛮可观。最重要一点，今年绘画时长与成果上来说，我个人还是很满意的。如果说去年是因为磕CP上头而开始重拾画笔，今年就是在肆意无忌的自嗨中真正领略到画画的快乐，把自己喜爱的角色描绘出来时的喜悦之情真是让我欲罢不能。&lt;/p&gt;
+&lt;p&gt;只是今年书读的真是不多，小说满打满算才读下来个位数，漫画也重温的更多，新看的并没几套。&lt;/p&gt;
+&lt;p&gt;打算明年削减一下游戏时间，多用来画画和看书好了，嗯先这么说说。&lt;/p&gt;
+&lt;p&gt;下面来进入本题，还是跟去年一样，视频类内容就不计入了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;漫画篇&#34;&gt;【漫画篇】&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;《噬谎者》，40多卷补了一年多终于补完了，更详细的感想已经敲进博客里另一篇文章了，有几个赌局的设计地巧妙有趣，虽然故事叙述节奏上让我适应了好一段时间，总的来说值得一品。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《夏日重现》，其实就倒数两卷一直没有看，趁着动画化捡起来，隔时间太久，加上最后展开确实有些皮球漏气的感觉，不过这种题材，难免高开低走，本作算航行落地比较平稳的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《黄金神威》，恭喜完结，我在最近几年少有的比较勤快追连载的漫画，有人不喜欢这个有点偏傻白甜系的收尾也正常，但我总体上还是比较满意的，期间的内容充满惊喜，里面的人个个都是人才，说话又好听。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《魂环》，水上悟志老师是瑰宝！话是这么说，我也没有做到老师全部作品都制霸。本作短短几卷就把几世轮回的爱与恨描写地发人深省，虽然没有《惑星公主蜥蜴骑士》对我的冲击力那么大，也是一本好漫画，哎又想起惑星动画做得太糟糕……心疼老师……&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《超智游戏》，上半年好久一段时间都在重温这本，契机只是因为当年并没有看过动画，得知主角的中之人和开司赤木一样，就找来补了一下，某人年轻时的声音真的好好听啊，完美戳中我的好球带。至于作品本身内容不多说了，时隔多年重温仍觉得中前期很精彩。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《怪兽8号》，某天闲的就在JUMP的app上把漫画追平了，感想就是没啥感想，好普的一本少年漫，完。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《境界的触发者》，因为作品标签分类是智斗，所以很久以前就想补来着，只是人老了，对少年漫画兴趣缺缺的，不容易，今年终于在上班摸鱼时给补到24卷了。简单评价一下，宛如电竞的排位赛一口气看下来还是觉得挺有趣，但人物表情单一，也没什么冲击性的分镜与对白，看完就只有还行这一个感想。等攒够单行本卷数再捡起来读读吧。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其他还看了章鱼噼、阿树的连载还有各种厕纸改漫画更新，不提了。&lt;/p&gt;
+&lt;p&gt;只是要特意说一句，阿树真的是很厉害的漫画家，我这个人虽然很喜欢恶口评一些作品，但对我认为优秀的作品和作者绝对不会吝啬赞美之言，哪怕被人说是跟风也无所谓呀，喜欢就是喜欢，不喜欢就是不喜欢，诚实一点。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;小说篇&#34;&gt;【小说篇】&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;《さよならの言い方なんて知らない 1》，我的初本河野裕，没看过他以前的作品，偶然嫖到这本第一卷就摸鱼看起来。很喜欢剧中剧讲述求生欲的动画，然后业余同人女很不道德地在用书中人物代餐CP。斗智部分并没有觉得很惊艳，可能因为还只是前期铺垫，明年想读读后续，谢谢星流佬喂本伸手党资源。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《魔女与猎犬2》，冰雪女王？或者说冰雪奇缘新编吧，导入的回溯部分还蛮有西幻味道，最后姐弟都得到救赎，比前作读后胸粪感下降不少，新魔女倒是有些特色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《魔女与猎犬3》，小美人鱼新编，这本明显比前作有趣不少，憎恨中难掩爱恋，最后恨得以摘除，只剩下纯粹的爱情，本以为就此欢喜落幕，没想到前途更加多舛，让我阅读时心情随着不停起伏，好喜欢这种人物纠葛，虽然是在新冠得病期间看的，但整个读书过程很享受。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《ホワイトラビット》，伊坂幸太郎老师真的太厉害了，明明顺着捋下来就显得平常无奇的入室劫持事件，却能用这种魔术般的叙述手法把读者玩弄于股掌之中。不仅本篇，书尾岛哥哥的留言也让我颇有感触，文化人就是不一样啊。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;哦对了写到这里想起今年2月还补了《三体》的小说，看完最大感想只剩三体人怎么还不来毁灭人类……其他，还补了两本老推理小说，名字就不说了，看得有些太迟略感遗憾，作中的诡计早已不觉稀奇，被后世借鉴过多次。现在在读n个推理榜上有名的《名探偵のいけにえ》，看看新书有没有惊艳的设计。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;游戏篇&#34;&gt;【游戏篇】&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1月《尸体派对》，年初白金的第一款游戏，坦白说我小时候真的很怂包，一点恐怖游戏都不敢碰，长大后胆壮了不少，白完这作内心不为所动，倒是女生组的友情戏不错，声优还是很懂梗的选了炮姐那两位。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2月《月姬R》，因为没有上传存档导致拖到春节后才白金，月厨竟是我自己.jpg，演出提升太多，可惜志贵声优的表演我略有不满，但是公主太可爱了！！相较于原版，学姐线加戏也好多（虽然很大比例也是在写公主），打完还是很满足的，就是本主磕骨科的不知道何年何月才能玩到下作……&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《逆转裁判1/2/3》，通关时间分别是2月/4月/5月，大学时打过4代还挺喜欢大脑门，没想到被朋友阿布那么唾弃哈哈哈哈。不过这次补了1/2/3终于能明白一些她的心情了。确实不错，最后一局神谷英树（？）超男人我差点就粉了，但总体最喜欢的还是糸鋸刑事(草。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《大逆转裁判1》，虽然是6月才打的但接着上面就顺势放在这里了，不行，不行，非常不行，什么昏睡游戏，案子无聊，注水百倍，虽然登场角色可爱，但打起来真是痛苦，导致我2代现在都没通关。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3月《如龙0》，听人家说0优秀听很久了，这次终于补上啦，沉浸小游戏的数十小时，不对，是感受真岛哥有多帅的数十小时，哥，坏男人真男人酷男人、男人也喜欢的男人！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4月《只狼》，在大家踏上褪色者之旅的时候，我开始补From Software的另一款曾斩获年度游戏的佳作。补好东西不存在犹豫就会败北一说，因为是本人第一款魂系游戏，原本以为超鬼畜，做了很久心理建设，但实际上手后发现难题虽难但非无解，不仅如此，解题过程乐趣横生，只是最后刷白金的几小时真是枯燥无聊……人还是不要当杯奴的好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;6月与7月《质量效应》三部曲，网友很久以前给我卖的安利，现在吃下去也觉得太美味了！在Xbox平台初见通了一遍后，又在PS5平台刷白金打了一遍，我的年度乙女游戏，也可以说是年度游戏，和外星人谈恋爱为什么这么哈皮，盖拉斯我的欢乐源泉，剧情上也是浪漫满载，好久没有这么废寝忘食地沉浸在一款游戏中了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;7月底8月初《数码宝贝 绝境求生》，这几年的dgm游戏我从未缺席过，童年没有pkm的我是跟这群孩子和数码兽长大的。只是这次新作的战棋系统真是不济，剧情中规中矩，用黑暗猎奇向展开吸引眼球但也是有限度的，毕竟数码宝贝动画本体现在更猎奇，而且没有养成数码兽的乐趣，作为dgm游戏来说不是很及格。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;8月《AI梦境档案 涅槃肇始》，打越老师已经黔驴技穷，又玩EVER17套路（x。整体上沿用前作玩法，不过故事在本质上与前作大有不同，角色缺乏“爱”变成主要为剧情诡计服务的工具人，但这个诡因为似曾相识导致我又在途中就揭晓了谜底，嘛整体来说还算有趣。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;8月《灵魂骇客2》，哎我已经不想为这款游戏浪费任何笔墨了，ATLUS你要是觉得吃吃角色人气红利，认为搞几个有名声优、整些可能有点看头的人物设计、卖卖腐就能收服世界，那你就继续，开心就好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;9月《双人成行》，因为是在9月白的就算在9月，实际上和朋友面基时才能玩一下，就这样打了几乎一年，关卡设计很出色，但剧情真是一言难尽……什么离婚冷静期体验游戏……&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;10月《浪漫沙加3》，出于不纯的动机开始补的RPG名作，这种自由剧本式体验对我来说挺新鲜，练级的过程也不觉得辛苦，闪技系统有种抽卡般的快感。剧情简单易懂，没什么值得多说的，还是以系统玩法上的乐趣为卖点的一款作品，然后我成功地从这个玩法中汲取到了乐趣，未来继续补系列其他作品。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;11月《皇家骑士团2 重生》，算是我今年年度游戏之二了吧，成年后阅历稍有积累，重玩本作感觉更有收获，对一些情节、人物的看法也有挺大改观，不变的是“名作”这个评价。可惜重生版在难度上提升了几阶，安利起来略有难度……嗯……我也不怎么卖安利给别人就是，其他更详细写在我博客另一篇文章里了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;12月，《最终幻想7 核心危机 重聚》，中二的诗句如今看来甚至会感到羞耻，但Why响起的时候我还是痛哭出声。这次做完了全部支线任务，帮爱丽丝制作了所有种类的花车，算是弥补了一些当年的遗憾吧。实话实说，本年轻人的第一款FF，谢谢你带我真正走进JRPG这个领域。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然后就是《喷喷喷》，这个吞噬了我400小时的黑洞……明明前作我60小时就卖盘出坑，这作比前作拉胯不少但为什么我反而会这么上头。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1月计划先画画读书，中旬打个P3P白金好了，哎对ATLUS扭曲的爱看来还要持续一段时间……&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>画画洋平</title>
+      <link>https://robaku.site/posts/%E7%94%BB%E7%94%BB%E6%B4%8B%E5%B9%B3/</link>
+      <pubDate>Thu, 29 Dec 2022 09:54:56 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E7%94%BB%E7%94%BB%E6%B4%8B%E5%B9%B3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2FIMG_0687-scaled.jpeg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最近因为剧场版SD再热，我又第n次在复习，重燃爱火，真的好喜欢洋平&lt;/p&gt;
+&lt;p&gt;不过这是我第一次画洋平，小时候不敢下手的男神，现在终于画得有点模样了&lt;/p&gt;
+&lt;p&gt;一点点进步也觉得好开心&lt;/p&gt;
+&lt;p&gt;明年还想多画一些洋平！&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>开司</title>
+      <link>https://robaku.site/posts/%E5%BC%80%E5%8F%B8/</link>
+      <pubDate>Fri, 09 Dec 2022 09:56:22 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E5%BC%80%E5%8F%B8/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2FIMG_0680.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;重新画了一下去年的一张图&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>残酷而甜美--《皇家骑士团2 重生》随笔游记</title>
+      <link>https://robaku.site/posts/%E6%AE%8B%E9%85%B7%E8%80%8C%E7%94%9C%E7%BE%8E%E7%9A%87%E5%AE%B6%E9%AA%91%E5%A3%AB%E5%9B%A22%E9%87%8D%E7%94%9F%E9%9A%8F%E7%AC%94%E6%B8%B8%E8%AE%B0/</link>
+      <pubDate>Tue, 29 Nov 2022 10:21:10 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E6%AE%8B%E9%85%B7%E8%80%8C%E7%94%9C%E7%BE%8E%E7%9A%87%E5%AE%B6%E9%AA%91%E5%A3%AB%E5%9B%A22%E9%87%8D%E7%94%9F%E9%9A%8F%E7%AC%94%E6%B8%B8%E8%AE%B0/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/TOR%2FIMG_0676.png&#34; alt=&#34;&#34;&gt;
+首图是通关L线后试着画的主角丹尼姆。&lt;/p&gt;
+&lt;p&gt;进入10月，中旬左右老家疫情愈演愈烈，开始了漫长无尽的静默生活，不得不开始居家线上办公。&lt;/p&gt;
+&lt;p&gt;加上职业性质，非碎片式的自由时间增多了，我又开始一头扎进游戏世界中逃避现实。只能说庆幸，虽然已年过30，但还没有罹患电子阳痿，打开Switch App查看游戏时长记录，最多的一天竟打了10小时之久。当然其中有一些“啃老”因素在，因为封在老家，每天蹭父母做的饭，减少了许多家务用时，“你可千万不要变成隔壁阿姨那样.jpg”。&lt;/p&gt;
+&lt;p&gt;相对的，磕CP频率下降了很多，这里就借口一句被游戏挤占了时间。另外事出仓促，也不能未卜先知，许多设备都没在手边，只带了mac和NS，还有掌上读书设备墨案一小台，算了知足常乐。&lt;/p&gt;
+&lt;p&gt;有点跑题，是想写《皇家骑士团2 重生》的repo来着。虽然在这之前，10月底~11月上旬先补了另一款Square Enix的经典RPG作品《浪漫沙加3》，因为还打算过一次二周目，就排在本文之后了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;小时候曾在PSP上玩过盗版《命运之轮》，有些记忆模糊，当时应该打的是C线，那会还不怎么擅长玩战旗，甚至可以说所有游戏可能都玩得一知半解，卡在关底未通关，自然各种支线也没回收，即便如此，主线仍然给我留下了很深的印象，所以这次出复刻冷饭对我来说是个补完的好机会。&lt;/p&gt;
+&lt;p&gt;只是打通L线之后就有些后悔，我应该写成游戏日记的形式，有些感想虽然在毛象上也做了记录，但并非全部，好多随心的有趣念想没有发就从脑海中划过，导致打开文档时又不知从何下笔。&lt;/p&gt;
+&lt;p&gt;所以只能再次搬出我的拿手好戏——想到哪里写哪里！&lt;/p&gt;
+&lt;p&gt;首先记录一下无关剧情、对于这次“重生”的一些想法。&lt;/p&gt;
+&lt;p&gt;全语音化，是真的赞。本作有别于一些RPG，大部分事件对话不是按战斗后插播片或即时演算再进入战斗的节奏来呈现的，很多都在关卡途中，根据我军出战成员与血量触发，所以导致我已经接近三条主线全通的状态下，事件回收率仍然不满50%。而这些数量庞大的对话内容全部都有配音！这很爽吗，是的，很爽。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/TOR%2FIMG_1715.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;主角丹尼姆的声优是我喜欢很久的前野智昭，每条线中丹尼姆的纠葛与成长都演绎地不错。在游戏临售那期周刊FAMI通上刊载的前野采访中还提到了一件选角趣闻。松野泰己先生之所以选择前野为丹尼姆配音，是因为看了前野在《超凡蜘蛛侠》系列里为彼得·帕克吹替的表现，觉得这种“迷茫青年”的声线与丹尼姆恰如其分。游戏初发表时，松野还发过一条推文，盛赞前野将他内心所想的丹尼姆完美地诠释了出来。也让我这个粉丝在整个游戏过程中享受非凡，✝️升天✝️！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/TOR%2FXnip2022-11-28_17-26-56.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;除了前野以外，中村悠一配的卡诺普斯兄贵感满载，不愧是无论剧情还是战斗都十分称职的好大哥。不过给我留下最深印象的是雷欧纳尔声优的演绎，当然松野剧本对这位亦敌亦友的角色描写本身就很出色，声优的演技属于锦上添花了。&lt;/p&gt;
+&lt;p&gt;只是系统方面真是遗憾，可能是很多玩家的共同感想吧，新要素军团等级与buff卡确实容易产生争议。军团等级初衷是好，在大幅削减战旗类游戏中训练单位所需的时间之后，如何控制难度就成了问题。所以为了保持“战场的紧张刺激感”，设置等级上限，强制玩家必须在既定的难度水平上进行战斗，在某种意义上来说，确实会考验到玩家运筹帷幄，让游戏战略性有一定提升。但与另一个新要素“buff卡”相叠加后，这点增加的战略性也消失殆尽了。&lt;/p&gt;
+&lt;p&gt;尽管我一周目最终BOSS前姐姐的命（=HE）都是buff卡给的，但也不能否认这个元素实在过于看脸，就算绞尽脑汁去跟敌人争夺buff卡，也免不了天降神兵之卡就掉在敌人面前or敌人出生自带四张卡效果加成，让我等只能沦落至被无双的份。&lt;/p&gt;
+&lt;p&gt;而且我认为，对于玩家，或者退一步，现代玩家来说，难度调节不应该完全由制作方控制。本作在没有提供难度自由选择的前提下，允许玩家练级碾压敌人，原本是开发方应提供的最基本选项。毕竟它并不是一款完全新作，只是一款冷饭二重炒（SFC→PSP→NOW），让数量更多、层面更广泛的玩家接触、了解这款经典名作，才是它首要使命。结果重生版比SFC和PSP版还甚的难度，反而大幅抬高了入门门槛，略显失败。&lt;/p&gt;
+&lt;p&gt;所以还是很同意日本一些玩家的观点，如果将这两点改良的话，那毋庸置疑这就是一款神作，我会愿意并很乐意地将其推荐给更多的人。但目前排除全语音，仅从“游玩”的角度来说，玩PSP或是SFC版也无差。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;尽管是款1995年就面市的作品，但下文涉及剧透，请注意&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;老实说，在打之前，我也没想到本作的一些内容会和当前时事应和。让我不由感叹，这款在松野年轻时打造的作品放在今日也无愧于不朽名作之称。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/TOR%2FIMG_1716.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;毕竟，人类的历史，就是战争的历史，民族、信仰、贫富、文化等等方面的差异，让即便是生长在同一片土地，甚至是昔日互称亲友的二人也不免流血冲突。无论是过去，还是未来，想必这点永远都不会改变吧。所以，哪怕已时过20多载，品味起来依然陈厚。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/TOR%2FIMG_1724.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;它和那些“过家家式”战争描写的日式创作不同，人物对话也并非纯粹中二装逼言论。即便有的最终结局走向也带有一些理想式的美好。可毕竟是在虚构作品中，看一名追求梦想投身战火的年轻人最终成就大义，未尝不是一段爽文般的体验。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/TOR%2FIMG_1721.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;不过个人来说，最喜欢的还是NE结局，统一国家却失去至亲，一场战争的终结同时意味着新的战火已经点燃，这种遗憾中落幕，却又不是满盘皆输的结尾，带着现实甘甜亦残酷的味道。&lt;/p&gt;
+&lt;p&gt;本作最吸引我的地方也是这种甜美的残酷性吧，因为看多了由于对手身世可怜（长相俊美）就能一笑灭恩仇的童（xiao）话，这种不会因敌人悲惨遭遇、无奈苦衷就放下屠刀的战争故事，夸张一点说真是JRPG里的瑰宝。&lt;/p&gt;
+&lt;p&gt;其中几位敌对角色更是让我动容，是那种纯洗白式描写永远无法匹敌的。&lt;/p&gt;
+&lt;p&gt;L线的迪达罗，从出场到退幕仅短短数个关卡，一条忠于祖国同时更忠于人民的硬汉形象就跃然于屏幕。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/TOR%2FIMG_1727.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;雷欧纳尔更是让我泪，射了出来。&lt;/p&gt;
+&lt;p&gt;每逢与雷欧纳尔对立并不得不将之斩杀的场面，雷欧纳尔的临终话语都能让我心生“遗憾”之情，他确实因立场而为敌，但内心深处的理想其实又与主角无比相似，只因相逢于战乱，即便是细微的差池也只能剑戟相向，否则他也许会成为丹尼姆的良师益友吧。&lt;/p&gt;
+&lt;p&gt;在L线里故意激化丹尼姆，以死抗下所有罪责，并让青年剑锋与心灵一同成长，这段已让我很感慨。C线对角色形象的进一步补完更是出彩。&lt;/p&gt;
+&lt;p&gt;在C线里，丹尼姆拒绝以同胞的鲜血去换取军势的壮大，与之相对的，雷欧纳尔为达成理想不择手段，乔装成敌军宰杀同胞，哪怕其中甚至有恋人的亲兄长，雷欧纳尔与丹尼姆二人间的对立比L线中更加鲜明。&lt;/p&gt;
+&lt;p&gt;但无论我如何代入情绪也无法彻底痛恨这位骑士，在コリタニ城内一战，通过雷欧纳尔与恋人间的对话知晓，他在举起屠刀前早已做好为赎罪献出生命的觉悟，战争结束、祖国稳定后会心甘情愿道出真相，将项上人头任由恋人与人民处置。人物的心理斗争与觉悟感，仅凭短短几句就表现得淋漓尽致。&lt;/p&gt;
+&lt;p&gt;雷欧纳尔：“尽管如此，大事未成之前，我还不能死，哪怕阻挠我的人是你，我也不会手下留情。”
+恋人：“我明白，而我也绝对不会原谅你。”&lt;/p&gt;
+&lt;p&gt;最后，一边深情互唤着对方的名字，一边拉开弓弦，给予致爱之人夺命一击。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/TOR%2FIMG_1723.PNG&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/TOR%2FIMG_1722.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;关于主角丹尼姆，因为在毛象上记录地足够多，一时也想不到更多能说的。&lt;/p&gt;
+&lt;p&gt;L线犯下大罪、双手染满鲜血后负罪前行，经历曲折最终迷茫散尽，成长被敌人认同的领袖；C线坚持理想，顽强抗争，在前线开辟出一条与其他肮脏执政者不同的光明磊落之路；以及N线原本意欲奔赴理想，却不想被现实打脸低头，摸索爬行。每条线都各有特色，每条线配角间的利益关系冲突、情感纠葛及理想信仰的碰撞都很耐人寻味。当然最令人深思的还是对于战争的刻画。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/TOR%2FIMG_1720.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;这款游戏的剧情确实没有什么萌系要素，女主角性格不但不惹人怜爱，甚至是玩家口口相传游戏史上的知名恶女。更没有嚼碎喂进嘴里的卖腐内容。&lt;/p&gt;
+&lt;p&gt;沉重的内容让我在游玩过程中内心一直处在平静下燃烧的状态，每次通关一条线，都会长叹一声，不虚此行，谢谢松野。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/TOR%2FIMG_1719.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>尤里安</title>
+      <link>https://robaku.site/posts/%E5%B0%A4%E9%87%8C%E5%AE%89/</link>
+      <pubDate>Tue, 08 Nov 2022 10:37:16 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E5%B0%A4%E9%87%8C%E5%AE%89/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2FIMG_0670.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;《浪漫沙加3》一周目通关纪念画的尤里安&lt;/p&gt;
+&lt;p&gt;简单写写repo（毛象搬运版）&lt;/p&gt;
+&lt;p&gt;其实早————就买了，先买的是RS2，久闻大名，既然是公认的好东西我还是很想试试看的，不过因为積みゲー过多就一直没轮到，疫情封在家手边也没有其他游戏机，借此机会开坑了。&lt;/p&gt;
+&lt;p&gt;至于为什么先玩RS3不是RS2，动机超级不纯，就是偶然浏览推特新闻看到沙加手游那张尤里安卡面，长得过于戳我性癖（绿毛、笑颜.jpg（。问了群里的沙加粉式神佬，被科普这是RS3的主角之一，我立即下单购入游戏追加未来老婆。 &lt;img src=&#34;https://i.nya.coffee/custom_emojis/images/000/001/368/original/7da30596556ff586.png&#34; alt=&#34;:xkl_baoxiao:&#34;&gt;&lt;/p&gt;
+&lt;p&gt;关于沙加系列，虽然我打过一点PS2的吟游诗人，但小时候真的很菜没玩明白，只记得很难。所以对RS3我是纯无知小白，从0起步。靠着式神佬给的攻略网站踏实地……好吧，也没有，莽了不少，走了很多弯路，但是探索系统的过程充满乐趣。&lt;/p&gt;
+&lt;p&gt;RS3的剧情就很简单，整个流程文本也没多少，核心玩法还是系统，哦我以前补FF5的时候好像也有过类似的感觉！&lt;/p&gt;
+&lt;p&gt;不过剧情中各种细节非常喜欢，这种玩家自由选择主角、自由安排剧本发展还挺有冒险感的。好佩服没有攻略的话这么多细节要怎么挖掘www&lt;/p&gt;
+&lt;p&gt;当然关键是这个回合制战斗充满乐趣，是跟FF和smt完全不同的味道。闪技，自由安排角色使用武器、招式，育成自由度好高。感觉我这种在smt里沉迷给主角自由点点养恶魔的人对这种游戏真是没有抗性。超喜欢讲战略不讲武德（？）让玩家掏空心思琢磨的游戏了，降智快餐游戏远离我xx&lt;/p&gt;
+&lt;p&gt;敌人特别是BOSS也各有特色，像素战斗演出技能效果真拉风！虽然是早在95年发售的SFC游戏，我感觉放到现在看也挺炫酷的。&lt;/p&gt;
+&lt;p&gt;练级花了很多时间但过程居然也没觉得累，复刻版连SFC版的良性BUG都保留了真是超神。非常好的一段游戏体验，还想再开个皇兄当主角的二周目！&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>万圣节啦（赤开）</title>
+      <link>https://robaku.site/posts/%E4%B8%87%E5%9C%A3%E8%8A%82%E5%95%A6%E8%B5%A4%E5%BC%80/</link>
+      <pubDate>Wed, 02 Nov 2022 10:42:01 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E4%B8%87%E5%9C%A3%E8%8A%82%E5%95%A6%E8%B5%A4%E5%BC%80/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%9B%BE%2Ffkmt_IMG_0667.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;其实10月30日就搞好了忘记更博客&lt;/p&gt;
+&lt;p&gt;糊弄的，这构图似乎哪里见过系列……
+一影纯涂黑画起来超快（本社比。
+勾线上色只需要两小时不到笑死&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Six Fan Arts</title>
+      <link>https://robaku.site/posts/six-fan-arts/</link>
+      <pubDate>Sat, 22 Oct 2022 11:16:33 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/six-fan-arts/</guid>
+      <description>&lt;p&gt;基友与嗼站站友点的
+被我画成了six ooc请见谅&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/1716a661880eea70.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>新练习绘合集</title>
+      <link>https://robaku.site/posts/%E6%96%B0%E7%BB%83%E4%B9%A0%E7%BB%98%E5%90%88%E9%9B%86/</link>
+      <pubDate>Sat, 22 Oct 2022 10:44:12 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E6%96%B0%E7%BB%83%E4%B9%A0%E7%BB%98%E5%90%88%E9%9B%86/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2F7&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;跟风画了下那个游戏的联动衣服……&lt;/p&gt;
+&lt;p&gt;其实我根本没有玩，打打麻将还行，扑克牌就算了。&lt;/p&gt;
+&lt;p&gt;其他的线稿：&lt;/p&gt;
+&lt;p&gt;自己很喜欢的一张，画起来好解压的&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2F9&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;随便速写的akg&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2F8&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;然后是念了好久终于动笔的学兰pa&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2F10&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;博客这边也备份下👆🏻这张图的烂梗脑洞，自嗨地很爽！&lt;/p&gt;
+&lt;p&gt;低一学级的赤木则穿戴整齐，人模人样，但其实每天找人打架or被别人找茬，面带微笑地把人揍到鲜血横流，人送外号福本高中（？）的恶魔&lt;/p&gt;
+&lt;p&gt;有一次开司偶然路过赤木处刑现场，未曾想，因为衣着被赤木当作敌对不良拉住一顿胖揍。&lt;/p&gt;
+&lt;p&gt;其他不良虽然不敌赤木但大多流血不流泪，一般都是骂骂咧咧或是哎呦呦喊着疼逃跑。&lt;/p&gt;
+&lt;p&gt;但是被揍的开司却哭了，明明泪如泉涌却毫不示弱，咬牙切齿挥拳试图反击（当然是打不到的）。&lt;/p&gt;
+&lt;p&gt;把赤木给看乐了，本来想打几下就了事，结果开司的哭脸太撩人施虐心，赤木就意图开始进一步的折磨ry&lt;/p&gt;
+&lt;p&gt;然后……回过神来已是豪干……！&lt;/p&gt;
+&lt;p&gt;虽然啪啪啪的过程是开司被赤木强行带去爱情旅馆解决的←&lt;/p&gt;
+&lt;p&gt;但是前面强吻的部分被赤木打趴躺在地上的其他不良看到了，结果开司就被误以为是福本恶魔（草）的恋人。&lt;/p&gt;
+&lt;p&gt;导致开司被赤木莫名其妙强奸了不说，后来随便走大街上都有人看见他就喊：“这小子就是福本恶魔的心上人，捉住他就能要挟恶魔！！”然后追着他又是打又是要绑架。&lt;/p&gt;
+&lt;p&gt;两个人就这样结下了奇怪的缘分，赤木隔三差五就会来戏弄开司取乐。&lt;/p&gt;
+&lt;p&gt;于是有了本图！！&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>喷喷paro</title>
+      <link>https://robaku.site/posts/%E5%96%B7%E5%96%B7paro/</link>
+      <pubDate>Sat, 08 Oct 2022 10:46:19 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E5%96%B7%E5%96%B7paro/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2F6&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;被任天堂打死xxx最近喷得太开心就画个触手开司，画得好开心！！&lt;/p&gt;
+&lt;p&gt;アカカイ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2F5&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这张抄照片也画得好开心！自我感觉情1画好帅www&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>落书大礼包</title>
+      <link>https://robaku.site/posts/%E8%90%BD%E4%B9%A6%E5%A4%A7%E7%A4%BC%E5%8C%85/</link>
+      <pubDate>Tue, 16 Aug 2022 10:47:42 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E8%90%BD%E4%B9%A6%E5%A4%A7%E7%A4%BC%E5%8C%85/</guid>
+      <description>&lt;p&gt;アカカイ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2F1&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2F2&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2F3&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2F4&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;6月中旬开始就没有在好好画画，疯狂打游戏，拿了一堆白金（虚无感max（也没有。&lt;/p&gt;
+&lt;p&gt;准备近期博客里再填几个游戏repo&lt;/p&gt;
+&lt;p&gt;工完灵魂骇客2的评测后剩下几个月打算努力画画供养CP了&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>给我产品过儿童节！</title>
+      <link>https://robaku.site/posts/%E7%BB%99%E6%88%91%E4%BA%A7%E5%93%81%E8%BF%87%E5%84%BF%E7%AB%A5%E8%8A%82/</link>
+      <pubDate>Sat, 04 Jun 2022 10:49:00 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E7%BB%99%E6%88%91%E4%BA%A7%E5%93%81%E8%BF%87%E5%84%BF%E7%AB%A5%E8%8A%82/</guid>
+      <description>&lt;p&gt;アカカイ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2FIMG_0551.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2FQQ%E5%9B%BE%E7%89%8720220605110553.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;一年内我最喜欢的日子，强迫我产品跟着本人过一些他们不过的节日（笑死。&lt;/p&gt;
+&lt;p&gt;其实还想了一个瘦弱白毛超显眼还超爱找茬（？）的赤木被抹布围攻，人多势众，眼看着…………可怜的抹布就要被赤木打了（靠）的时候，路过的开司以为只是普通的以多欺少霸凌场面，打算仗义相助的梗。&lt;/p&gt;
+&lt;p&gt;但自己脑了下，开司真的会出手相救吗？难道这人不会屑到一边围观一边想“弱肉强食，被虐也是自己活该”。&lt;/p&gt;
+&lt;p&gt;不对，好歹还是可爱的小时候，开司应该会更愿意对外表现出自己善良的本性，不会闹别扭才对！&lt;/p&gt;
+&lt;p&gt;也不对，虽然如果真是到了危机时刻他肯定会出手相救，但平常状态下屑才是深入他骨髓的品质！所以肯定不会立即见义勇为的！&lt;/p&gt;
+&lt;p&gt;………………&lt;/p&gt;
+&lt;p&gt;陷入了如此的自我斗争循环。&lt;/p&gt;
+&lt;p&gt;这人不仅吃饭屁事很多，连自己脑补瞎几把画的时候都屁事很多……！！&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>练习绘⑤</title>
+      <link>https://robaku.site/posts/%E7%BB%83%E4%B9%A0%E7%BB%985/</link>
+      <pubDate>Sat, 21 May 2022 10:55:36 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E7%BB%83%E4%B9%A0%E7%BB%985/</guid>
+      <description>&lt;p&gt;アカカイ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/FSAS_UZVcAICXWZ.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;有参考时装杂志，纯练手！
+本来就一张图懒得更的，不过下一张图可能要磨很久，想了想还是扔上来了&lt;/p&gt;
+&lt;p&gt;今天发掘出土了13年前的坟（bo）头（ke）
+看了看以前的黑历史（已备份至本BO，想看可以翻翻），我果然还是有点进步的嘛！（没有就太惨了。&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>酔っちゃったから</title>
+      <link>https://robaku.site/posts/%E9%85%94%E3%81%A3%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%89/</link>
+      <pubDate>Tue, 17 May 2022 10:57:29 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E9%85%94%E3%81%A3%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%89/</guid>
+      <description>&lt;p&gt;アカカイ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt%2FFS8cg41VIAAoLx9.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/fkmt/QQ%E5%9B%BE%E7%89%8720220517172657.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>练习绘④</title>
+      <link>https://robaku.site/posts/%E7%BB%83%E4%B9%A0%E7%BB%984/</link>
+      <pubDate>Sun, 01 May 2022 10:59:39 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E7%BB%83%E4%B9%A0%E7%BB%984/</guid>
+      <description>&lt;p&gt;还还是アカカイ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/FRhfeuoUUAErN8Y.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/FRheihNUYAYFTWs.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;不会画还没有脑洞（又懒）好愁人哦（&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>练习绘③&#43;最近创作的一些感慨（？）</title>
+      <link>https://robaku.site/posts/%E7%BB%83%E4%B9%A0%E7%BB%983/</link>
+      <pubDate>Mon, 11 Apr 2022 10:59:39 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E7%BB%83%E4%B9%A0%E7%BB%983/</guid>
+      <description>&lt;p&gt;还是アカカイ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/kiss.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/D9D18920-D670-4BD3-BD53-1FB608364230.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/baseballparo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最近的一些绘画创作感慨，图文关系不大&lt;/p&gt;
+&lt;p&gt;第一次画kiss&lt;/p&gt;
+&lt;p&gt;也不是完全没试过，草图练习时也尝试过很多次，每次都失败告终&lt;/p&gt;
+&lt;p&gt;就是品质糟糕到连画到最后的勇气都没有&lt;/p&gt;
+&lt;p&gt;这次画下来自我感觉良好都值得记载一下（草&lt;/p&gt;
+&lt;p&gt;上传到推特后竟然被いいね点爆了（本社比）……感谢转发的大手互fo&lt;/p&gt;
+&lt;p&gt;以前画完无人问津，sad十分钟不到可能我就能开始搓手想下一张图的点子，当然内心也不是完全没有想得到夸赞的欲望&lt;/p&gt;
+&lt;p&gt;可一旦被关注我反而会开始怂逼症发作，卧槽我画力这么不稳，下回画不出这种质量的图怎么办……&lt;/p&gt;
+&lt;p&gt;还好这次重新振作还挺快的，想了想可能因为最近真的进入了绘画动力高峰期&lt;/p&gt;
+&lt;p&gt;尽管圈子本身不热（by基友言：萌冷圈可能是一种性癖），不过粮倒是很充足&lt;/p&gt;
+&lt;p&gt;便是没想到在这种前提下，我竟然没有满足于单纯吃粮，会去选择自己提笔创作&lt;/p&gt;
+&lt;p&gt;明明很多年都没动笔画画（16~20年一直都是年更状态），现在居然享受于细细细细微进步所带来的快乐中，每天都想练习&lt;/p&gt;
+&lt;p&gt;真·不·可·思·议&lt;/p&gt;
+&lt;p&gt;谢谢我CP，赤开赛高！&lt;/p&gt;
+&lt;p&gt;说起来那天微博刷到的一篇鸡汤，很进补，看后收益颇丰，分享一下&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://weibo.com/6349292500/LeBqPtp1B?type=comment&#34;&gt;原po：Pip_Boat&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大意我就烂但是我就画！！（bushi&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>练习绘②</title>
+      <link>https://robaku.site/posts/%E7%BB%83%E4%B9%A02/</link>
+      <pubDate>Tue, 05 Apr 2022 10:59:39 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E7%BB%83%E4%B9%A02/</guid>
+      <description>&lt;p&gt;アカカイ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/QQ%E5%9B%BE%E7%89%8720220404213424.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;模写↓&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/QQ%E5%9B%BE%E7%89%8720220405003714.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>白情</title>
+      <link>https://robaku.site/posts/%E7%99%BD%E6%83%85/</link>
+      <pubDate>Mon, 14 Mar 2022 10:59:39 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E7%99%BD%E6%83%85/</guid>
+      <description>&lt;p&gt;アカカイ&lt;/p&gt;
+&lt;p&gt;赤木君给开司的返礼……………………&lt;/p&gt;
+&lt;p&gt;…………个屁，完全是本人性癖，我真的好喜欢攻女装！！！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/98D85545.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;受女装接受范围内，受女体化天雷滚滚对不起！！
+感觉有了那么点点进步不过还是好不稳定（
+你俩真的是我第一次磕到苦练画画的CP
+我好喜欢你们啊！！^q^&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>《噬谎者》简单读后感</title>
+      <link>https://robaku.site/posts/%E5%99%AC%E8%B0%8E%E8%80%85%E7%AE%80%E5%8D%95%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
+      <pubDate>Sun, 27 Feb 2022 11:04:55 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E5%99%AC%E8%B0%8E%E8%80%85%E7%AE%80%E5%8D%95%E8%AF%BB%E5%90%8E%E6%84%9F/</guid>
+      <description>&lt;p&gt;一直想写这个东西一直懒得动笔&lt;/p&gt;
+&lt;p&gt;今天做练习尝试着画了弥鱈悠助，趁着劲头就想着简单地记下本作的读后感。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/69ffeff29e1fa5b3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;那种民间汉化漫画不是经常最后几页会有那种汉化组的招人广告或者小私货（？），追黄金神威的时候，经常看到汉化组的人吹捧噬谎者，奉为神作，就查了下居然还是智（du）斗（bo）漫画，后来有一位曾经（……）的友人很喜欢大力推荐，加上本作是个有49卷的大长篇而且已经完结，非常对我的口味，就这样开啃了。&lt;/p&gt;
+&lt;p&gt;但过程没想到……还挺痛苦的……&lt;/p&gt;
+&lt;p&gt;自认为我也是看漫画速度很快的那类选手，如果不打游戏专心追漫画的话，一个星期就足以把一部斗牌传说看完，还是日文版那种，但真没想到读本作时却能如此龟速，甚至比某一话满页都是文字堪比小说的死亡笔记读起来还……费劲。&lt;/p&gt;
+&lt;p&gt;怎么形容呢，这部漫画可以算是以不同内容的赌局来划分章节的吧。每场赌局完整看完以后，理解其中的见招拆招没有问题，也能掌握剧情走向，但每个分镜以及台词，在阅读中将其串联在一起时就会感到有什么障碍……后来在bgm马克条目，发现我不是一个人有这种感想。也许就是电波对不上迫稔雄老师的叙事节奏，加上他也喜欢在漫画里作诗，让我对故事的理解更加困难，导致我断断续续耗费近一年才看完这49卷。&lt;/p&gt;
+&lt;p&gt;虽然这么说，全篇看完后还是觉得很有趣的，其中一些赌局的设计精彩非凡，可惜就是我对主角斑目貘自始至终没产生什么好感。&lt;/p&gt;
+&lt;p&gt;以下属于个人偏见系列，我确实很喜欢足智多谋胆大且疯狂的赌徒主角，但若能在一开始就预料到赌局稳赢，那这盘游戏的刺激与乐趣就会削减半分甚至更多。后来我细思并对比了下ONE OUTS的东亚，都是抠脚就觉得最后稳赢的“怪物级”赌徒，但打棒球中间的波折与意外使赌局胜负去向变得不是那么明了，看起来就还会有悬着一颗心的感觉。看噬谎者时这种“被吊起来”的感觉就稀薄许多，尽管中途也会出现一些小插曲，可翻页看到斑目貘咬梅子，瞬间便心如止水……&lt;/p&gt;
+&lt;p&gt;这也是为何比起斑目貘，我更喜欢看小梶相关的赌局，充满了意外性，“小梶有意外性”这点漫画中连斑目貘也说到了。真的，没有比赌局里戏剧性却又充满合理性的大逆转更让人激动人心的。所以全篇读下来，我最喜欢的赌局应该是雄牛的子宫、海战游戏两篇，当然最后胜负难以预料的air poker也确实好看，个人觉得比最后以下犯上丢手绢还要精彩。&lt;/p&gt;
+&lt;p&gt;再来说说角色，到最后给我最多惊喜的自然也不是主角，而是他的对手切间创一，真的太有趣了这人，我全篇所有也是唯一的笑点都是他给的，谢谢首领！不过要说我最喜欢的角色，还是弥鱈，这扭曲的性癖我真是好中意……甚至想斗胆画一画。&lt;/p&gt;
+&lt;p&gt;总结而言，确实是佳作，完美对得上电波的话那就是神作了，如果能动画化就好了，现在优秀的智斗漫画大多只改编三流真人剧真是太可惜了……（怨念。&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>我CP过节（虽然迟到了）</title>
+      <link>https://robaku.site/posts/%E6%88%91cp%E8%BF%87%E8%8A%82/</link>
+      <pubDate>Tue, 15 Feb 2022 10:59:39 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E6%88%91cp%E8%BF%87%E8%8A%82/</guid>
+      <description>&lt;p&gt;アカカイ&lt;/p&gt;
+&lt;p&gt;给CP过节难得画彩图…………唠叨下收&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/11.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;全靠工具和素材过活
+话是这么说吧……这个上色笔刷好难用我应该下次不会再用了………………
+不过还是学会了很多，保持一周一更好了（我就说说。
+之前的落书也存一下&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/25645.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/F61269FD-29F5-45AE-BDA5-9CB00DAD3AEE.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>练习</title>
+      <link>https://robaku.site/posts/%E7%BB%83%E4%B9%A0/</link>
+      <pubDate>Tue, 04 Jan 2022 10:59:39 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E7%BB%83%E4%B9%A0/</guid>
+      <description>&lt;p&gt;アカカイ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/QQ%E5%9B%BE%E7%89%8720220103230305.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/QQ%E5%9B%BE%E7%89%8720220103230302.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;还是画得不够多，什么时候我的线条能无关笔刷地丝般顺滑（？）&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>2021年年终总结</title>
+      <link>https://robaku.site/posts/2021%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Tue, 28 Dec 2021 11:10:41 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/2021%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
+      <description>&lt;p&gt;基本是前半年在看漫画看小说连游戏玩的都是视觉小说，下半年在打游戏酱紫&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/QQ%E6%88%AA%E5%9B%BE20210110185047.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;漫画篇&#34;&gt;【漫画篇】&lt;/h2&gt;
+&lt;p&gt;（就聊聊看完值得一提的，一些长年追的连载和看了感觉图一乐的作品就不说了）&lt;/p&gt;
+&lt;p&gt;《逆境无赖开司》 从最开始默示录一直补到24亿脱出篇第四卷，通算一共69卷单行本，因为不想让快乐结束地太早，24亿脱出还在养。&lt;/p&gt;
+&lt;p&gt;《斗牌传说》36卷完食 赤木佬上我！（bushi&lt;/p&gt;
+&lt;p&gt;两个综合感想：我已经大概有100年没有这么沉迷过AC类作品了，磕CP上头到烂画产量乃我近5年之最。斗牌虽然充满都合玄幻（？）但是符合角色设定，看的时候爽是真的爽；开司最有意思的还是地下赌骰子篇之前，进小钢珠篇后，fkmt老师就发挥了真本领——确实有在连载，但实际上是在拖稿……&lt;/p&gt;
+&lt;p&gt;但默示录篇真好看啊真好看，看完觉得我年轻时怎么这么不识货，居然因为画风错过了这么好的作品……（延迟入坑MAX&lt;/p&gt;
+&lt;p&gt;《女仆咖啡厅》 16卷 补完又看了动画，确实是佳作，搞笑中带着深意&lt;/p&gt;
+&lt;p&gt;还在补的：《噬谎者》 进度 39/49卷 终于进高潮了。虽然粉了一年fkmt，但我想说噬谎者的一些赌局设计地确实比开司后半部分好看……多了！！尽管主角的塑造看到现在还没有打动我，但是赌局有意思胜过一切（草。&lt;/p&gt;
+&lt;p&gt;人老了，许多最近大热的作品都看得我不为所动，好在年少无知还留了很多经典好作品没补，谢谢我自己（？&lt;/p&gt;
+&lt;h2 id=&#34;小说篇&#34;&gt;【小说篇】&lt;/h2&gt;
+&lt;p&gt;《心灵侦探城冢翡翠》 对我来说不够悬疑刺激（草）但是本书的“福华”我还是很喜欢的&lt;/p&gt;
+&lt;p&gt;《体育馆之谜》 死宅侦探，要素过多，解谜环节一口气读下来还蛮有趣，读完才发现不是推理类厕纸而是正儿八经的推理小说获奖作品&lt;/p&gt;
+&lt;p&gt;《水族馆之谜》 前本同系列，不太行，噱头拉上去了，比体育馆高端一点但是破案过程精彩程度下滑&lt;/p&gt;
+&lt;p&gt;厕纸 《魔女与猎犬》 GAGAGA文库的获奖作品，BW销量榜一直前位好奇就买了本，LAM的画好看，哇内容超级阴间（褒义），中世纪魔法与剑、魔女狩猎的设定虽然烂大街了，但是这本反なろう系的阴间展开，让人看得胸粪又舒服（？&lt;/p&gt;
+&lt;p&gt;《到达不能极》 分类是推理悬疑，读着感觉是SF恋爱，日亚评价还挺高我就点数兑换整了本看，看到70%看不下去跳结尾瞄了眼结局合上书。艹，对拆尼斯来说过于恶心的一本，简单总结就是描写二战时期的日本，然后在里面疯狂指责德国，错的全是德国，对于德国向犹太人的残虐行径说“跟你们结为同盟简直是耻辱”，卧槽真有脸说，我真是佩服立本人&lt;/p&gt;
+&lt;p&gt;还在读的：&lt;/p&gt;
+&lt;p&gt;《魔女与猎犬II》 恭喜续作推出，让我明年看完……&lt;/p&gt;
+&lt;h2 id=&#34;游戏篇&#34;&gt;【游戏篇】&lt;/h2&gt;
+&lt;p&gt;去年年末给自己定的KPI，每个月打通至少一款游戏，总之顺利完成&lt;/p&gt;
+&lt;p&gt;1月 《人狼村之谜》 久闻大名，隔壁微博热度也很高，买了PSV版打白金，详细感想毛象发过，在这就不剧透地说，前期周回看着还不错，但这个掉书袋解谜不太行，最后真相大白把我逗乐了，整体没戳到我。&lt;/p&gt;
+&lt;p&gt;2月+3月 重开《真女神转生4》 完全重开，走N线，为了给真5热身的意思，当年被小怪虐到easy死得不行系统怜悯我解锁safety，但是8年过去，本弗林成长了，normal难度轻松过，BOSS随便虐（叉腰。&lt;/p&gt;
+&lt;p&gt;4月 《极乐迪斯科 终剪版》早就买了就等终剪版，因吹斯汀，文字量真的大，打（读）了我整整62小时（应该是包括roll骰 烂骰重开的时间），顺利解决案件。结果本自认为是康米主义接班人最后却是个混沌邪恶警察，害烂警察就烂了怎么滴x&lt;/p&gt;
+&lt;p&gt;5月 《符文工房5》 等了好久的RF5……唉这是什么东西啊……算了不骂了，感想就一句话：《符文4》真好玩。&lt;/p&gt;
+&lt;p&gt;同5月 《海市蜃楼之馆》 也是跟人狼村一样的久闻大名，试试看的心情买了PS4版打白金……卧槽本人年度游戏第二名（特指无印本篇），虽然无印没有声优配音，纯粹在读小说，但是音乐、美术、剧本太强，有几章打得我哭成傻逼了……还成功安利了同事一起品味，相逢恨晚的一部佳作。&lt;/p&gt;
+&lt;p&gt;6月 《绯红结系》…………我奔着实弥岛巧女士的剧本去打的，但打完觉得小丑竟是我自己。战斗系统反而比起来更有闪光点，也不是不能玩吧，一般（一般）。&lt;/p&gt;
+&lt;p&gt;7月 《漫威蜘蛛侠 迈尔斯·莫拉雷斯》 系统比前作精简了一些，战斗丰富了一些，其他没啥变化，故事太zzzq，白金神作，为了拿双白金没有用PS5打，所以也没感受到PS5上的进化对不起&lt;/p&gt;
+&lt;p&gt;8月 《NG》 死印的续作，恐怖要素比死印弱化了一些（个人感觉），探索也很简单，不过角色塑造和讲故事上有点点进步，男主基友CP很好磕。&lt;/p&gt;
+&lt;p&gt;9月 《破晓传说》虽然万代这为了卖DLC搞的这套数值系统真是让孩子吐了，但作为一个传说打了这么多年的人，本作探索阔步前进的态度我觉得还是值得肯定的，剧情不予置评，除了《深渊传说》，谁打传说是为了看剧情啊（手动狗头。&lt;/p&gt;
+&lt;p&gt;同9月 《审判之逝》 为了写评测快速通关了主线，叙事套路与前作过于一致，噱头、冲击力、逻辑、个别角色塑造都不如前作，但是最终章立意提升我个人还是很喜欢的。&lt;/p&gt;
+&lt;p&gt;10月 真女V发售前什么都不想玩综合症发作&lt;/p&gt;
+&lt;p&gt;11月 《真女神转生V》本人年度游戏，详细感想发博客了，无剧透地总结，剧情图一乐，还没真4F有意思，但是……它怎么能这么好玩，谢谢ATLUS，我暂时都不骂你了（草。&lt;/p&gt;
+&lt;p&gt;12月 《最终幻想14》6.0 作为一个前年才入坑的人虽然没体会到2.0入坑的人那种感慨，不过主线剧情中还是有很多闪光点的，职业调整后的摸索试错也充满乐趣，收官让我很失望以外，其他都玩得很开心。&lt;/p&gt;
+&lt;p&gt;还在打的：&lt;/p&gt;
+&lt;p&gt;11月~12月中途插播 《心跳回忆GS4》 应该会成为本人Switch生命周期内买的唯一一款乙女游戏了，因为是GS所以必须要买，虽然画很丑，但是很好玩，流石GS，目前通了一周目一个ED罢了&lt;/p&gt;
+&lt;p&gt;12月后半开坑 《月姬R》 菌哥哥我来了……！&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>《真女神转生5》通关感想</title>
+      <link>https://robaku.site/posts/%E7%9C%9F%E5%A5%B3%E7%A5%9E%E8%BD%AC%E7%94%9F5%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3/</link>
+      <pubDate>Mon, 27 Dec 2021 11:12:15 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E7%9C%9F%E5%A5%B3%E7%A5%9E%E8%BD%AC%E7%94%9F5%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3/</guid>
+      <description>&lt;p&gt;终于把《FF14》6.0主线跑完，有空来写写这个《真女神转生5》我自己的repo了，然而一决定下笔，大脑就如同新开图层一般瞬间清空。&lt;/p&gt;
+&lt;p&gt;本来想画通关图的，先鸽了！！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/20211120.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;先循规蹈矩地从剧情来聊聊。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;含剧透请谨慎阅读&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这次smtv的故事，我很直白地来说，讲得非常不好。它明明有一个还算比较有意思的世界观：诸神之争，胜利夺得宝座的秩序神明，利用权能将其他神明的智慧夺走，将神贬为恶魔，并把智慧之果封印在乐园。受到狡猾的蛇教唆的人类，偷吃了智慧之果，从此原本属于神明的智慧便与人类的灵魂相结合，并代代传承至今。&lt;/p&gt;
+&lt;p&gt;天下没有永恒不落的王权，秩序之神还是被拉下了至尊宝座，路西法阁下登场宣告旧世代落幕，这段开篇演出还挺有史诗感的。加上推进一段剧情后得知，真正的东京已经在大战中灭亡，现在的东京是秩序神用神迹复现的虚假城市。随着神的倒台，东京最终也难逃毁灭的命运。尽管我阅历有限，可能其他作品也使用过类似的设定我不得而知，不过就本作而言，这个背景就非常有SMT的味道。所以让我在刚进游戏时，内心还是充满期待的，这次我是不是也可以手刃伙伴，踩着昔日战友的尸体登上王座，和阁下把酒言欢。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;然 而，什 么 都 没 发 生。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;游戏的故事描写简直是儿戏，得知东京毁灭后长官让我们做的事是——回去休息然后上学，上学！上学！ATLUS终于还是神志不清了……休息我还可以接受，死到临头还要维持虚假的平和有何作用。&lt;/p&gt;
+&lt;p&gt;为了彰显SMT系列特色之一荒诞性（用网络语说就是意难平），开头从校园霸凌延展出的这段剧情，最后以两个妹子双双殒命告终。杀妹征道我个人还是非常喜欢的，但是这段讲得就感觉莫名其妙，人死的意义何在，恕我愚钝实在没能品出一二三。&lt;/p&gt;
+&lt;p&gt;自此到最后的流程，食之无味且远没有我想象中的自由，故事一直在引导着让你做一个救世的英雄，无论你打算以何种手段达成目的、支持谁的思想，最终都是要以某种形式拯救现在身处的宇宙。而且所有的选择都是依托在别人主张的价值观上成立的，哪怕是normal结局，也就是传统的中立线，亦是如此。途中寥寥数个的分歧选项，少了几分我是以自己的意志来创造未来的感觉。&lt;/p&gt;
+&lt;p&gt;说白了，我来smt与恶魔为伍，在终末之世这种非日常情况下，你不多花笔墨烘托塑造一下终末气氛，还在讲校园青春，就显得避重就轻。而且，因为所有角色明显都是为了游戏进行上必须的阵营分裂而塑造的，角色性格、背景都是为这套系统服务，所以显得很模版化，最终导致青春友情戏码可谓是演得一塌糊涂，让人内心完全无法涌现出“我想拯救东京夺回昔日平静”的欲望。&lt;/p&gt;
+&lt;p&gt;总结，就剧情来说，我觉得smtv实在&lt;strong&gt;糟 糕&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;很不客气地用了糟糕二字，都是在走秩序混沌中立的老一套，恶魔幸存者的故事都讲得比这精彩许多。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;但是smtv依旧是我2021年的年度游戏！为什么，因为实在是&lt;strong&gt;太好玩了&lt;/strong&gt;……&lt;/p&gt;
+&lt;p&gt;它的内核还是粉丝所熟悉的那个味道，但又并非纯粹吃老本，改变与进化肉眼可见。这个改变当然指的并非有时候掉帧掉成ppt的画面……不断迭代的JRPG新作如何能更像一款“新作”，系统上的革新绝对是必要的。&lt;/p&gt;
+&lt;p&gt;在大部分回合制经典JRPG都转型为ARPG的现在，依然想利用Press Turn Battle玩出新花样实属一道致命性难题，但是ATLUS交的这张答卷我很是满意。更加自由的恶魔合体育成、依旧充满趣味的交涉对话、稍有不慎就会道中杂鱼战翻车的高难度战斗、更加细腻且动态化的恶魔模型动作、炫酷的技能特效、让系列老粉会心一笑的无数捏他，配合这次大胆创新的大地图探索要素，真是让我欲罢不能，啧啧称赞。&lt;/p&gt;
+&lt;p&gt;就仿佛一快奶油蛋糕，外表涂层用料与以前不太一样，但咬下去的口感依然一如既往的浓郁，新旧内容间的平衡把控极好。既能让新入坑的玩家快速上手，也能让系列粉丝品尝到那抹等待已久无法忘怀的味道。&lt;/p&gt;
+&lt;p&gt;略微感觉有点吹过头，但是想了想我喷剧情写了3w字（并没有），与前文相比，赞赏之言是不是就显得少的可怜了呢。&lt;/p&gt;
+&lt;p&gt;因为工作原因，也四处看了不少其他人对本作的看法，有些玩家不是很喜欢大地图探索这种在回合制加入动作要素的做法，但我个人觉得，完全采用旧世代迷宫探索的话，只会拖慢整体节奏，不适合现代玩家的口味，绝非一个可取项，该舍即舍。而且本作的大地图探索，地形极其复杂，难度很高，与传统迷宫探索相比，可玩性丝毫没有降低。一周目不查任何攻略找齐200个呀哈哈（未满）这件事，我感觉可以吹一年（夸张。&lt;/p&gt;
+&lt;p&gt;不过在结尾我要保命（？）性地说一句，很有自知之明地讲，虽不敢以粉自居，但我也是个喜欢ATLUS游戏很多年的人，所以不敢保证上述发言中毫无粉丝滤镜。对于ATLUS这几年为了商业目的做出的一些改变，我确实不太开心，可我依旧希望今后能继续玩到ATLUS的新作，所以打算睁只眼闭只眼，敲打批评的同时鼓励它前进，没错就是“骂完记得买！”&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>2021年赤开落书合集</title>
+      <link>https://robaku.site/posts/2021%E5%B9%B4%E8%B5%A4%E5%BC%80%E8%90%BD%E4%B9%A6%E5%90%88%E9%9B%86/</link>
+      <pubDate>Sat, 06 Nov 2021 11:14:44 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/2021%E5%B9%B4%E8%B5%A4%E5%BC%80%E8%90%BD%E4%B9%A6%E5%90%88%E9%9B%86/</guid>
+      <description>&lt;p&gt;懒得一张一张单独搬运了，打个包搬上来。
+这个坑我真的磕得太开心了，明年继续！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warning：图多&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/img_0360.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/433.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/8b7119f73eb0a44c.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/56fc67dc-433f-4df1-a8a5-92053b206b0c20210716-074.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/qqe59bbee7898720210716204613.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/b6bb1b2ff8d6acbe.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/img_0291.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/img_0304.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/img_0305.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/img_0318.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/img_0331.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/img_0349.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/img_0350.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/img_0379.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/qqe59bbee7898720210814235251.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;摸索期的三张黑历史&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/qqe59bbee7898720210102222144.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/qqe59bbee7898720210111224256.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/qqe59bbee7898720210209003522.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>《破晓传说》白金</title>
+      <link>https://robaku.site/posts/%E7%A0%B4%E6%99%93%E4%BC%A0%E8%AF%B4%E7%99%BD%E9%87%91/</link>
+      <pubDate>Sun, 26 Sep 2021 11:18:05 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E7%A0%B4%E6%99%93%E4%BC%A0%E8%AF%B4%E7%99%BD%E9%87%91/</guid>
+      <description>&lt;p&gt;没有剧透，但是感想都很个人向，是长毛象感想的搬运，之后的游戏repo会在新博客里好好写的（下次一定.jpg&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/toarise&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;首先剧情，写得太二次元教科书，几步后的展开基本可以提前预判。翻译一下王道得有点过劲，变成了一杯寡淡无味的白开水。的确现在搞这么王道的展开确实稀罕，而且剧情这种东西仁者见仁智者见智。就我个人而言，虽然全篇通关后内心没起一点波澜，但至少比TOX和TOZ的剧情的后劲品起来舒服一些，而且还没麦麸，BG写得好不好另说，不刻意麦麸是好文明，这系列不是靠卖CP活了25年的谢谢。&lt;/p&gt;
+&lt;p&gt;然后角色，可能是想像跟系列其他主角一样有点标签般的“名言”，全程都在“说破墙”，大锤80小锤40（xx），但内核东西少有点，不够有血有肉，其他人比起来就好一些，没错说的就是主角奥尔芬。&lt;/p&gt;
+&lt;p&gt;但是杜欧哈林这个角色真是给我惊喜，一开始以为是个逃避责任的巨婴，到レネギス以后令我刮目相看，应该是主角团里给我留下最深印象的人物，当然不排除是有加濑康之的声音加成。&lt;/p&gt;
+&lt;p&gt;以及呼噜噜太可爱了！！！&lt;/p&gt;
+&lt;p&gt;其次战斗，这作BOSS全程霸体近战真的没法好好玩，跟杂兵战不是一个体验。BOSS战想像以前一样近战一套combo还挺难，反正我菜没combo起来选择放弃。等级堆上去以后，法师连续咏唱或者男主背水一刀走天下，无限换皮变色重模的小怪，感觉比起从前，少了些味道。&lt;/p&gt;
+&lt;p&gt;哦然后就是大地图探索起来确有惊喜，但是迷宫设计过于简单，解谜要素仿佛弱智，相比起来TOZ的水之神殿都显得有趣许多。&lt;/p&gt;
+&lt;p&gt;最重要的一点，魔神巨佬说最终战樱庭统还是有发挥了一下，但我打完，还是不记得BGM是啥！就，TO这么多年过去了，我没记住几首樱庭统老哥的音乐。你跟隔壁狒狒家的植松比一下，虽然两个系列我都是伪得粉都不算，自行开除粉籍，但狒狒真的每代给我留下印象的名曲数不胜数。&lt;/p&gt;
+&lt;p&gt;血书下作传说还是让椎名豪来做音乐吧谢谢。&lt;/p&gt;
+&lt;p&gt;最后，去你妈的吧BN商法，乞丐版和豪华版根本不是一个游戏体验，我同事豪华版hard开荒，道具随便磕钱随便花，SP余出来没地用，双倍经验满级分分钟。本人乞丐版，没钱没SP没道具没经验，都不敢hard开荒还是中后期才把难度从次级提到hard，白金难度高了不止一级，cnm万代，听到了吗cnm！！&lt;/p&gt;
+&lt;p&gt;但你要问我好玩吗，我回答好玩的，毕竟本人真·中二JRPG中毒患者，新的越来越少，每年只能靠补一些老游戏解馋的现在，所以能打到这样品质的新JRPG，已经是“还要啥自行车”的状态。大概比起比起怀抱昔日荣耀的真遗老，我还是更倾向于希望它能继续推陈出新吧。虽然缺点多得很，但还能玩到新作已是幸事，批评的同时，也鼓励它继续摸索滚打前行。&lt;/p&gt;
+&lt;p&gt;满打满算，也是对得起25周年纪念作之名了（对啊我就是在yygq那个20周年纪念作啊）。如果没有smtv也有可能成为本人TGOY（不是吹，只是说我还挺喜欢。&lt;/p&gt;
+&lt;p&gt;白金神作！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/f4fc8de57fb914fd.png&#34; alt=&#34;白金瞬间&#34; title=&#34;白金&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>NG白金</title>
+      <link>https://robaku.site/posts/ng%E7%99%BD%E9%87%91/</link>
+      <pubDate>Mon, 02 Aug 2021 11:22:19 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/ng%E7%99%BD%E9%87%91/</guid>
+      <description>&lt;p&gt;和亲友很基孩子磕地很嗨！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/qqe59bbee7898720210814233451.jpg&#34; alt=&#34;纪念图&#34; title=&#34;纪念图&#34;&gt;&lt;/p&gt;
+&lt;p&gt;白金！探索部分我觉得比死印弱化了一些，开恐怖模式也不怎么吓人，故事虽短还是挺完整的，还塞了大大小小前作的彩蛋，某当主还在BE飒爽登场，不良警察（现任不良侦探）也文字戏份一大堆。&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>《霊媒探偵城塚翡翠》读后感</title>
+      <link>https://robaku.site/posts/%E9%9C%8A%E5%AA%92%E6%8E%A2%E5%81%B5%E5%9F%8E%E5%A1%9A%E7%BF%A1%E7%BF%A0%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
+      <pubDate>Tue, 09 Feb 2021 11:24:05 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E9%9C%8A%E5%AA%92%E6%8E%A2%E5%81%B5%E5%9F%8E%E5%A1%9A%E7%BF%A1%E7%BF%A0%E8%AF%BB%E5%90%8E%E6%84%9F/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/qqe59bbee7898720210208210652.png&#34; alt=&#34;读毕纪念图&#34; title=&#34;读毕纪念图&#34;&gt;&lt;/p&gt;
+&lt;p&gt;先打点没有剧透的感想，老实讲这本比很多厕纸读起来舒服太多，没有那种中二式装逼句型，全篇一气呵成，解谜也十分易懂，而且最后高潮部分真的有惊艳到。其实跟书腰写的一样，全篇到处都是伏笔，仔细看的话，在作者揭晓前读者差不多就能猜到最终展开的，但还是能让人看完最后感叹一句有趣！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;含剧透请谨慎阅读&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;虽说突入终章前就猜到最后了，因为全文主视角的香月先生，真的是，作为一部推理小说的“福尔摩斯”，形象太单薄了，虽然有在不停刻画他的心理，但是人物外表与背景等细节却很少涉及，在此基础上，“华生”反而有血有肉的，配合书名，最后的反转大致就能猜出来了。&lt;/p&gt;
+&lt;p&gt;前面几个案子看起来朴实无华的推理也得到了“补救升华”。毕竟“华生”推理出来的内容能有什么好看呢（过分），还得真正的“福尔摩斯”来啊。&lt;/p&gt;
+&lt;p&gt;而且这解谜也很符合我口味，完美解决了我之前说本作前三个案子将灵异与现实混合的都合推理的无趣感。我心目中好的解谜，怎么形容呢，就是要从细节推敲抽丝剥茧来化解谜团，而不是RJGLP那样半调子推理掉书袋，最后还留一部分理论解释不清推给鬼神的混合大法（是的我真的是对RJGLP最后解谜还挺失望的，角色描写的精彩多了）。&lt;/p&gt;
+&lt;p&gt;以及，最后没有直击的角色内心反而令福尔摩斯更加可爱讨喜了。&lt;/p&gt;
+&lt;p&gt;真酱：“好可惜啊，明明他是你理想中的华生。”&lt;/p&gt;
+&lt;p&gt;啊我真的好喜欢！！！这句话加上福尔摩斯最后的一连串表现，让我觉得这对“福华”也太尊了！！好き！！！！&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>2019年游戏总结</title>
+      <link>https://robaku.site/posts/2019%E5%B9%B4%E6%B8%B8%E6%88%8F%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Tue, 31 Dec 2019 12:06:25 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/2019%E5%B9%B4%E6%B8%B8%E6%88%8F%E6%80%BB%E7%BB%93/</guid>
+      <description>&lt;p&gt;&lt;em&gt;（备份自lofter，初发表时间见博客投稿时间）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;好久不写这个了，心机一转，打算摸鱼写写字，整理下2019年的游戏历程，然后以自我安慰式的“新”形态迎接2020年，争取新一年做回身心健康的快乐主机游戏人（？）。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10001.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;没有任何剧透的安心。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;回想16-18年，比起13年刚从业，饭否码游戏日记的频率大降，第一可能是岁数增加心力大不如前（？），第二就是现实的确发生了很多事让我颓废与暴躁了不少。&lt;/p&gt;
+&lt;p&gt;工作变动、职场人际关系混乱等诸多原因，这两年过得不算很开心。直接导致此前较长一段时间的自己堪比键盘侠，攻击性极高，各种口胡与弱智操作，19年后半骤然冷静，反省了一下感觉真SB（。&lt;/p&gt;
+&lt;p&gt;虽然我一直没有在饭否讲什么吧，因为我个人很不喜欢表露出太多负能量，不仅给别人添堵，自己看了也会不爽。所以我尽量只在饭否上记录下让我觉得快乐的事情，一些“不愉快”也大多是游戏相关。本职热爱游戏的废人一条，数载过去，回顾这些当年游戏时的“气话”，也只会觉得是无比有趣的回忆，让人看着就心情愉快。&lt;/p&gt;
+&lt;p&gt;这也是我很喜欢饭否的原因，搜索真的太好用了，轻松回顾发病记录，本人是不太在乎黑历史的类型。对我来说，从文字和图片上回味当时喜欢什么人和事的心情，能让现在的自己也跟着开心起来。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;有点偏题了，回到正轨。在友人阿布熏陶下，今年愈发任豚化，往年整理（可惜lofter里保存的唯一一篇总结因为图片大部分失效被我删了）基本只需要看PSN奖杯卡即可，这次不太适用了，玩了以前从未接触过的老任作品，真香！&lt;/p&gt;
+&lt;p&gt;我本身更偏爱掌机一些，Switch在我这可以说是完美继承PSV衣钵，随时随地享受游戏是掌机的优势啊，机能上虽有限制但同时意味着硬核玩家眼中的“4399”可以更肆无忌惮地登陆这个平台（哦不是广告）。尽管如此这一年我还是玩了很久小V的，甚至给它新买了不少游戏。&lt;/p&gt;
+&lt;p&gt;PS5马上就来所以今年PS4稍有些被我冷落，不过掌机/主机通关游戏数量各占一半不分伯仲吧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首先简单总结下手游：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;16年底入坑GBF，咸鱼骑空士，终于在今年4月卖号彻底出坑。成也萧何，败也萧何。因为XY某四骑角色而玩这个游戏，最后实在没遭住cy商法摧残，看着自己XY角色跟超市买新包装人气商品捆绑送的萝卜一个待遇，那谁都要生气的不是。不要跟我说什么送的萝卜也很好吃啊，官方还给洗净了卖的这种P话，总之再nm的见！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10002.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;但是托GBF的福，让我把手游课金完·全·戒·掉·了！&lt;/p&gt;
+&lt;p&gt;FGO虽然还在继续玩，但没有课过一分钱。&lt;/p&gt;
+&lt;p&gt;提到FGO，也简单总结下吧，六个字：脚后跟最棒了。（boki）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主机部分：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;①首先虽然是18年底就白金的一款游戏，但19年依旧断断续续刷了一整年，当然就是扶不上墙的烂泥：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10003.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;code vein 发售前可想而知的，因为预算、人员不足的原因，一直没有什么更新，游戏本身量和质上也挺令人心寒（剧情中还有巨大BUG）。直到CV发售后，也就是19下半年，富泽他们终于想起来这个基本都要凉透的作品，开始哼哧哼哧打补丁。&lt;/p&gt;
+&lt;p&gt;新加的几个角色EP，文本平庸，不过展开上涉及到了系列核心，就还有那么点意思。但是演出和任务安排都太糟糕了，有没有用心在做，对比下GE2RB，跳跳都能看出来了好吗！（跳跳：？）&lt;/p&gt;
+&lt;p&gt;GE3用了新素材做地图，新种荒神新动作，老实说发售前我真的很期待，毕竟是我喜欢了这么多年的作品，但这份答卷真的令人不甚满意。就算有我再喜欢的角色和CP，我都洗不来。&lt;/p&gt;
+&lt;p&gt;【认真模式OFF，花痴模式ON】&lt;/p&gt;
+&lt;p&gt;嘿呀除了正宫soma，这作yugo给给的真心可爱，这个人设+小关低音加成，主ユゴ太好吃了嚼嚼&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10004.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;②嫖公司 评测玩的KH3，通关&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10005.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;一言难尽，怎么说游戏很好看，也挺好玩的，但这故事讲法太差了，不是“故事”本身差，真的是“讲法”有问题。最后果不其然，缺的起承转折全都是DLC来补，DLC差不多一张游戏钱，真有你的SE。&lt;/p&gt;
+&lt;p&gt;③&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10006.jpg&#34; alt=&#34;img&#34;&gt;
+和朋友一起打通的，见识到了自己的猪队友力，气得朋友把我打了一顿（现实·物理)&lt;/p&gt;
+&lt;p&gt;④&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10007.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;感觉是那阵很多人沉迷的游戏，只有NS没电能阻止我继续方块吃鸡！&lt;/p&gt;
+&lt;p&gt;（然而排位最高3，太菜了）&lt;/p&gt;
+&lt;p&gt;⑤&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10008.png&#34; alt=&#34;img&#34;&gt;
+补了当年没推上箱子的遗憾，但是我还没打新扶他线，C凯线也打了一半而已。主要内心对正宫K凯有种潜意识上的臣服感，一门心思和她步入婚姻殿堂，我这个人意外专一？（做梦）等我明年做好劈腿的准备再来（何？)。&lt;/p&gt;
+&lt;p&gt;⑥&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10009.png&#34; alt=&#34;img&#34;&gt;+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10010.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;DMC5出之前把买了3年以上放置的DMC4SP V哥mode通了，所以放在一起吧。&lt;/p&gt;
+&lt;p&gt;我打这游戏很开心很开心！我CP结婚了系列！&lt;/p&gt;
+&lt;p&gt;而且寸头尼禄我好他妈XY！&lt;/p&gt;
+&lt;p&gt;期间限定卡表的表字是我表哥的表！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10011.jpg&#34; alt=&#34;img&#34;&gt;
+（夸张)&lt;/p&gt;
+&lt;p&gt;⑦&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10012.png&#34; alt=&#34;img&#34;&gt;
+某艺人麻药事件时趁下架前光速购入的木村如龙。&lt;/p&gt;
+&lt;p&gt;良作，剧情的确不错，就是被如龙这个皮限制了，支线和主线也有些太割裂，导致沉浸度下降，理想状态是一口气追完事件后，再处理沙雕任务，可惜有几个支线是强制触发的。&lt;/p&gt;
+&lt;p&gt;⑧&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10013.png&#34; alt=&#34;img&#34;&gt;
+我这个人属于那种没有创造性的，所以一直对MC类的沙箱游戏敬而远之。&lt;/p&gt;
+&lt;p&gt;但是DQB真好玩啊！能让人废寝忘食的程度，我和破坏神的凄美爱情！&lt;/p&gt;
+&lt;p&gt;⑨&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10014.png&#34; alt=&#34;img&#34;&gt;
+TGA评选，2018年的GOTY，嫖的同事的盘，通关但没有白金。&lt;/p&gt;
+&lt;p&gt;和以前玩的战神味道不太一样，直到奎爷拿回双刀才找回当年的感觉。但划船听密米尔八卦太好玩了，比打怪有意思（靠。&lt;/p&gt;
+&lt;p&gt;⑩&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10015.png&#34; alt=&#34;img&#34;&gt;
+已白金。感谢三三的repo让我下决心买这款游戏，今年我猛推荐的游戏之一——PSV上的单人狼人杀《グノーシア》。真正做到把文字冒险与狼人杀完美融合的佳作，随着每盘狼人杀的进行，NPC从单纯的“路人牌友”，逐渐骨肉丰满起来，成为性格多彩、生动有趣的人物。将穿插于狼人杀间的文字线索联系在一起，还可以拼成一段有点感人的SF段子。&lt;/p&gt;
+&lt;p&gt;而且这个solo play狼人杀的游戏过程本身也相当有趣，细致的条件设定和随机功能让每一盘游戏都不会重复，是真的在打狼人杀。&lt;/p&gt;
+&lt;p&gt;IGNJP给了10分满分虽说有点过火，不过的确是值得夸奖鼓励的独立游戏！&lt;/p&gt;
+&lt;p&gt;⑪&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10016.jpg&#34; alt=&#34;img&#34;&gt;
+四线全通，五周目进行中。好久没有一款RPG让我这么沉迷了，每天挖细节找分歧差异不亦乐乎。&lt;/p&gt;
+&lt;p&gt;闪轨5，不对，风花雪月的确不算什么顶尖的游戏，剧本也没有那么出彩。但是能让我感受到制作组的“用心”，吹上天的话不会说，我流最佳赞美法三个字：我喜欢！足矣。&lt;/p&gt;
+&lt;p&gt;【认真模式OFF，花痴模式ON】&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10017.jpg&#34; alt=&#34;img&#34;&gt;
+库罗德的嘴，骗人的鬼，但是我兄弟是真的可爱（词穷)，为什么不能让男老师跟他结婚！&lt;/p&gt;
+&lt;p&gt;⑫&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10018.jpg&#34; alt=&#34;img&#34;&gt;
+打的RF4SP版，通关。哦谁会不喜欢种地呢！&lt;/p&gt;
+&lt;p&gt;种地打怪娶老公，简单的世界简单的快乐，杉田智和那只笑起来太可爱了，女主CV斋藤千和不要更俺得，人活着就是为了斋藤千和.jpg&lt;/p&gt;
+&lt;p&gt;⑬&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10019.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;伊苏每作都有打，虽然已经是个法黑了，但我还是……嫖了朋友的游戏把它通了。&lt;/p&gt;
+&lt;p&gt;他法的公司路线就是如此了，不会有太大投入，在有限开发资金下寻求突破性进步可能真的太难了吧。所以我就同社比，9中规中矩，人物刻画比起8略有逊色，剧情依旧大杂烩，但有头有尾，刻意营造的环环相扣感也不错，废话也少，还加了很多系列梗，可以，合格。（盖章）&lt;/p&gt;
+&lt;p&gt;⑭&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10020.png&#34; alt=&#34;img&#34;&gt;
+PS3版开了个头被我坑了，买了PS4版，今年利用工作午休时间断断续续打了三个月终于通关，有点难度，特别是最后BOSS战让我体会到了“战略”二字怎么写的（不是)，中间小兵也害我团灭几次，不过我就是喜欢这种不伺候玩家老爷的游戏！虽然剧本微妙地一塌糊涂，但我也算亲眼欣赏了系列名演出。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10021.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;⑮&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10022.png&#34; alt=&#34;img&#34;&gt;
+白金，什么JB……！！！我一个ATLUS厨，还是想骂的啊！！！&lt;/p&gt;
+&lt;p&gt;5月时把P5白金了一下，所以P5的游戏细节还记得比较清楚吧，细节丰富了吗，丰富了一些不痛不痒的地方，你最想看到的补完几·乎·没·有。涉及剧透的部分就不说了，总之很失望。我认为给人气角色加戏，完全没问题，营业是正常的，但你不能把营业放在万事之首。&lt;/p&gt;
+&lt;p&gt;一个“深化版”什么都没讲清反而挖坑无数，然后要价近1W日元，罪大恶极。&lt;/p&gt;
+&lt;p&gt;桥野在P5发售时的访谈中说：&lt;strong&gt;做P5时有意识这样想，要做一款游戏，能给玩家心里留下什么，甚至能让他们打完后产生想要改变自己的念头、令他们鼓起勇气。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然而我打完，这什么JB（复读。&lt;/p&gt;
+&lt;p&gt;一款随处可见的角色游戏（キャラゲー），既然要打クソキャラゲー，1W日元我能买多少中古名作·粪作玩。&lt;/p&gt;
+&lt;p&gt;⑯&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10023.jpg&#34; alt=&#34;img&#34;&gt;
+于是我去打宝可梦了！（？？？)&lt;/p&gt;
+&lt;p&gt;真香！小男孩好小男孩妙。&lt;/p&gt;
+&lt;p&gt;本人打的第一部宝可梦，不是系列粉不太关心品质问题，所以打得非常开心。&lt;/p&gt;
+&lt;p&gt;⑰&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10024.png&#34; alt=&#34;img&#34;&gt;
+白金，吹得朋友太多了，我就不赘述它多好了。一开始，对于本作我是看笑话的心情，因为友人跟我repo序章有料体验版打完后摸不着头脑，所以原本我是不看好香草这作的。&lt;/p&gt;
+&lt;p&gt;结果自己打完体验版，大喊真香！&lt;/p&gt;
+&lt;p&gt;⑱&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/blog%E7%94%A8%E5%9B%BE%2F10025.png&#34; alt=&#34;img&#34;&gt;
+打完pkm就莫名想回去打我的dgm，然后就把骇客追忆坑填啦。&lt;/p&gt;
+&lt;p&gt;啊我老公别西卜兽太帅了，帅断我的腿！剧情上我也蛮吃这一套的。现dgm这个IP我对它也是感情复杂，有那么点类似pkm粉对第八世代？（不）&lt;/p&gt;
+&lt;p&gt;以上！今年基本算是通关的游戏（混入一个半坑的）。&lt;/p&gt;
+&lt;p&gt;明年打算补更多老作品丰富阅历（？），从皇家骑士团开始，然后还有一个远大目标：每通关一款游戏画一张图，无论完成度，让明年时的这篇文好看点（立flag）。&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>十三机兵防卫圈自用剧情整理</title>
+      <link>https://robaku.site/posts/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88%E8%87%AA%E7%94%A8%E5%89%A7%E6%83%85%E6%95%B4%E7%90%86/</link>
+      <pubDate>Sun, 08 Dec 2019 11:22:19 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E5%8D%81%E4%B8%89%E6%9C%BA%E5%85%B5%E9%98%B2%E5%8D%AB%E5%9C%88%E8%87%AA%E7%94%A8%E5%89%A7%E6%83%85%E6%95%B4%E7%90%86/</guid>
+      <description>&lt;p&gt;通关后方便理解整理剧情写的，感觉老年痴呆越来越严重，以后通关一些文字ADV都打算记一些要点来方便自己以后回顾，这点也算是从《女仆咖啡厅》的主角步鸟那里学来的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;含剧透请谨慎阅读&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;记录：&lt;/p&gt;
+&lt;p&gt;2188年 森村千寻博士为了筹款散播的纳米机器人技术导致地球污染人类灭亡，此时活着的人只剩下卫星轨道上宇宙空间站中的十几人。为了人类种族延续，空间站内部数人打算推行箱舟计划，但空间站资源有限，绪方反对箱舟计划，两派发生争执，最终演变为枪击战，仅存的人类也灭亡了。&lt;/p&gt;
+&lt;p&gt;箱舟计划简单说就是让携带动植物及15人DNA的箱舟飞往有着适合人类居住环境的外星，在这颗星球上实现人类再生。飞行中如果探查机中途损坏，那人类将迎来真正的灭绝。但因为鹰宫博士研究的探查机繁殖而顺利解决了这一问题，搭载DNA情报探查机可以在小惑星上采取资源，进行自我修复与复制。经过无数探查机诞生、故障后，终于抵达了新星球。&lt;/p&gt;
+&lt;p&gt;探查机达到后开始着手制造、发射人工卫星来对地面设施进行管理，同时在新行星上制造设施区与保育器，根据携带的15人DNA开始育成他们的克隆体，也就是新人类。而怪物d实则是用来开发行星，使其地球化的土木重机。
+鞍部玉绪博士认为，继承历史文化才算是真正的人类，因此15人在20岁成年前要在保育器内体验模拟现实的社会生活，他们脑内的纳米机器人大部分都用来处理听觉视觉触觉味觉等，为了使度过的这段现实更加逼真。然后到18岁后，再学习2年的专门知识，即可从保育器出来，开拓星球完成人类再生。&lt;/p&gt;
+&lt;p&gt;森村博士觉得2180年后人类误入歧途，应该从头来过，但具体从哪个时代开始大家的意见无法统一，最终决定作出5个不同时代的模拟生活区，相邻生活区间年代各差40年。15人均在不同生活区内生活。生活区内其他人皆为中央电脑控制的管理的ai。中央电脑由冲野开发，因为此人十分随意，开发时还使用了d怪物为名的游戏程序。所以其实并没有真正在进行时间穿梭，只是从一个生活区转移到另一个生活区。&lt;/p&gt;
+&lt;p&gt;2188年，被井田利用而失意的东云，对人类种族失望，希望世界还是不要有人类比较好。于是她对箱舟计划动了手脚，在程序中加入了d-code，同样根据d游戏所制，可以呼唤怪物对假想空间发动攻击。当5个生活区都被破坏时，会自动重启，重新制造世界。每16年一个轮回，中央电脑内有发动倒计时，都是为了不让15人长大走出保育器。把自身资料（记忆）传送到区域0能免于完全重启消灭，但下一周后就不再是活人，仅是以模拟人格出现。&lt;/p&gt;
+&lt;p&gt;二周前的十郎认为只要把拥有d-code的15人全杀了就能解决问题，结果没有用。然后被一周前的井田以ai复活，逃到这个世界，逼到绝境时附身到现在十郎的纳米机器人上。这次他的目的是利用中央电脑使用的游戏系统，让与d的战斗变成真正的游戏。虽然登场敌人变得更强，但玩家也可以利用打倒敌人获得的点数来强化机兵。&lt;/p&gt;
+&lt;p&gt;最后在一周前如月帮助下，让中央电脑终于察觉现状异常，消灭了d，大家走出了培育器，踏上了新大地。&lt;/p&gt;
+&lt;p&gt;无论科技多么发达，最后引发奇迹的都是人类自己。&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>AC类版权二创旧图整理</title>
+      <link>https://robaku.site/posts/ac%E7%B1%BB%E7%89%88%E6%9D%83%E4%BA%8C%E5%88%9B%E6%97%A7%E5%9B%BE%E6%95%B4%E7%90%86/</link>
+      <pubDate>Sat, 31 Dec 2016 11:22:19 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/ac%E7%B1%BB%E7%89%88%E6%9D%83%E4%BA%8C%E5%88%9B%E6%97%A7%E5%9B%BE%E6%95%B4%E7%90%86/</guid>
+      <description>&lt;p&gt;2013年前画的旧图，动画和漫画作品相关，各种黑历史啊（比划。&lt;/p&gt;
+&lt;p&gt;银魂
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F4993414444233240838.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ES21
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F505171506849943749.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F2353950945513747046.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;OP
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F39707757_p0.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F7699046_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F%E6%96%B0%E5%BB%BA1%E5%9B%BE%E5%83%8F.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;RDG
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F2966513002219621567.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;血意少年
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F37568484_p0.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F9924779_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;P-P
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F6753071_orig.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F2425827_orig.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F8062131_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;黑子的篮球
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F2687879_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;青驱
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F9976977_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;异兽魔都（14年）
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2Ftorohe.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;小排球（14年）
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F%E6%96%B0%E5%BB%BA%E5%9B%BE%E5%83%8F93.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;APPMON（18年）
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F%E6%96%B0%E5%BB%BA%E5%9B%BE%E5%83%8F_%E5%89%AF%E6%9C%AC.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>ATLUS二创旧图</title>
+      <link>https://robaku.site/posts/atlus%E4%BA%8C%E5%88%9B%E6%97%A7%E5%9B%BE/</link>
+      <pubDate>Sat, 31 Dec 2016 11:22:19 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/atlus%E4%BA%8C%E5%88%9B%E6%97%A7%E5%9B%BE/</guid>
+      <description>&lt;p&gt;◎基本都是2013年前画的，多为黑历史系列
+◎图多&lt;/p&gt;
+&lt;p&gt;P1~P4全主角
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/1247716_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;P1
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/3591630_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F6495976015444000094.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;P2
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/6970379_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/9334160_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;P3
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/2050618_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/9693522_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;P4
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/233962136_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/2788088_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/4913072_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/6100380_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/7593506_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/9348543_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/9402560_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/9655563_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F5514289397456244905.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;P5
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/Cv1LOgrXYAAV0uH.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/Cv8xJr8UMAAs7Nt.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/CxEaGoHUAAAendG.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/aWkyYjN1bHJaeFowZ0RKZGJ5QVpWdGg2UjhPYnZmZHZJTW5aWWxoQlc2UXFLUGsxdDB6ZnBRPT0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;DS
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/1270105_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/7974438_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/963922936_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeGFlekt2SSt5V3hQWVpUUVAzSXZiZ0I5b1RQWm5aME5oZSsxTkd1QUhYakxnPT0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;真3
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/1288439_orig.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/4569310_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/5367384_orig.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeFp5YTlNWmw5Z3Z1c2ltd2xncWxMQnljL2cxVk4xSDFBYjlmRjMvaFE2d0p3PT0.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeGJidUV4eWpKdGMwaTdGUkc5dk5FaVhqK3VUeHRrRVgyc2duaHBYdUxkTjZ3PT0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;DDSAT
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/2530474_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;幻FE
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%9B%BE/CZX3m9AUkAA87H5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>JOJO旧图</title>
+      <link>https://robaku.site/posts/jojo%E6%97%A7%E5%9B%BE/</link>
+      <pubDate>Sat, 31 Dec 2016 11:22:19 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/jojo%E6%97%A7%E5%9B%BE/</guid>
+      <description>&lt;p&gt;2013年前补jojo正上头时画的，非常愉快的回忆，只画了1~5&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F1488258_orig.jpg&#34; alt=&#34;1&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F5218548_orig.png&#34; alt=&#34;2&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F1675412_orig.png&#34; alt=&#34;2&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F3192479_orig.png&#34; alt=&#34;3&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F3234273_orig.png&#34; alt=&#34;3&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F5478821_orig.jpg&#34; alt=&#34;4&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F6800793_orig.jpg&#34; alt=&#34;5&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>OC旧图整理</title>
+      <link>https://robaku.site/posts/oc%E6%97%A7%E5%9B%BE%E6%95%B4%E7%90%86/</link>
+      <pubDate>Sat, 31 Dec 2016 11:22:19 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/oc%E6%97%A7%E5%9B%BE%E6%95%B4%E7%90%86/</guid>
+      <description>&lt;p&gt;嘀咕的圣杯战争，和一些中二时期创作的OC
+我也不知道自己画了点啥，总之归类纪念下x&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F9856070_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F4864681_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F351454_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F2172578_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeGFxdjg2SUs2YVdObWVoeFpNVXFOOURGZW1YZEV0M256YlJFM3lRSW5Yb3BRPT0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
     <item>
       <title>噬神者相关旧图整理</title>
       <link>https://robaku.site/posts/%E5%99%AC%E7%A5%9E%E8%80%85%E7%9B%B8%E5%85%B3%E6%97%A7%E5%9B%BE%E6%95%B4%E7%90%86/</link>
       <pubDate>Sat, 31 Dec 2016 11:22:19 +0800</pubDate>
       
       <guid>https://robaku.site/posts/%E5%99%AC%E7%A5%9E%E8%80%85%E7%9B%B8%E5%85%B3%E6%97%A7%E5%9B%BE%E6%95%B4%E7%90%86/</guid>
-      <description>是在坑时间超久的吃神，画的也很多，创作时间应该是14~16年，GE3那张是18年 不分类直接罗列了
-TV动画版：</description>
+      <description>&lt;p&gt;是在坑时间超久的吃神，画的也很多，创作时间应该是14~16年，GE3那张是18年
+不分类直接罗列了&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F02.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F03.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F13131.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F5.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F6.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F7.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F8.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F9.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2FQQ%E5%9B%BE%E7%89%8720190715225829.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2Fhahahaqq.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2Fnana.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2Fsoma.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2Ftt_%E5%89%AF%E6%9C%AC.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2Fyusoma.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F%E5%A6%88%E5%A6%88%E7%88%B8%E7%88%B8.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F%E6%96%B0%E5%BB%BA%E5%83%8F.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F%E6%96%B0%E5%BB%BA%E5%9B%BE5%E5%83%8F.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F%E6%96%B0%E5%BB%BA%E5%9B%BE9%E5%83%8F.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F%E6%96%B0%E5%BB%BA%E5%9B%BE%E5%83%8F.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeGFOdW9SWmt0dzRGeE9BRTNIZ2daZk1iL0liZXZ1MXQ1M1FXSlJobjAwQ1J3PT0.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeGFOdW9SWmt0dzRGMDRYT01kS2dPNzdpTldjN2tpUnE4OGw2S29xUTJhWkFnPT0.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeGJGMzhJSUxHcFV3UDFSRWZmUUNJRHp0SVc2MXA5R3M0akpQT1VEc04zeDVBPT0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;TV动画版：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F4.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F2.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2F3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
     </item>
+    
+    
+    
+    <item>
+      <title>学园传奇系列旧图归纳</title>
+      <link>https://robaku.site/posts/%E5%AD%A6%E5%9B%AD%E4%BC%A0%E5%A5%87%E7%B3%BB%E5%88%97%E6%97%A7%E5%9B%BE%E5%BD%92%E7%BA%B3-/</link>
+      <pubDate>Sat, 31 Dec 2016 11:22:19 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E5%AD%A6%E5%9B%AD%E4%BC%A0%E5%A5%87%E7%B3%BB%E5%88%97%E6%97%A7%E5%9B%BE%E5%BD%92%E7%BA%B3-/</guid>
+      <description>&lt;p&gt;2014年初磕京一上头时画的，不多，不过还是单独开一页收一下&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F%E6%96%B0%E5%BB%BA%E5%9B%BE1%E5%83%8F.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F%E6%96%B0%E5%BB%BA%E5%9B%BE%E5%83%8F.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F1416998800954690488.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F3603836245501195090.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F4394888870617286399.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;还有一张魔都幽击队的小姐姐：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F%E6%B7%B1%E8%88%9F.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>游戏类版权二创旧图整理</title>
+      <link>https://robaku.site/posts/%E6%B8%B8%E6%88%8F%E7%B1%BB%E7%89%88%E6%9D%83%E4%BA%8C%E5%88%9B%E6%97%A7%E5%9B%BE%E6%95%B4%E7%90%86/</link>
+      <pubDate>Sat, 31 Dec 2016 11:22:19 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E6%B8%B8%E6%88%8F%E7%B1%BB%E7%89%88%E6%9D%83%E4%BA%8C%E5%88%9B%E6%97%A7%E5%9B%BE%E6%95%B4%E7%90%86/</guid>
+      <description>&lt;p&gt;弹丸论破
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F2014-10-01%20151318_%E5%89%AF%E6%9C%AC_%E5%89%AF%E6%9C%AC.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F4252478_orig.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeFpwbGRoanVLSFNTa0RmTTRnV0IySCtlSXVKVklmMGhjY09BaXZSWnMxYTNBPT0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Fate
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F12333.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FQQ%E5%9B%BE%E7%89%8720190715224344.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeFpLZUo1MnhiNGczQXJTR3JyMlVDakVxQ2pOU0doSDd4VU5QQ1RrcWxyN3dRPT0.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F34965139_p0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;深渊传说
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F1743723_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F2481327_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;战场女武神
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F1817077_orig.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;一个乙女
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeGFwOXF1U1YrVTZwLzlIWnk4UEtMeGNHOTgzRitRWEw2cElHMlZoMHJaMnlnPT0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;.hack
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F5532009855653775964.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;FF0
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F2840530_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F7152579_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F9169524_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;自由战争
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F7%E6%96%B0%E5%BB%BA%E5%9B%BE%E5%83%8F_%E5%89%AF%E6%9C%AC.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeGFucm1UNXlkZk5UNkJzZTBWYVpRZWt1VHVreTd2TlBwZUFZdXpNaFlQbFRBPT0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;机器人笔记
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2Fhaige_%E5%89%AF%E6%9C%AC.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;轨迹系列
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2Fcong.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F%E5%A7%94%E5%91%98%E9%95%BF.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FTUOBI_%E5%89%AF%E6%9C%AC.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;刀剑乱舞
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F%E6%96%B0%E5%BB%BA%E5%9B%BE%E5%83%8F%20(2).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;混入几张16年之后的&#34;&gt;混入几张16年之后的：&lt;/h2&gt;
+&lt;p&gt;火纹：风花雪月
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FEDHt3YDVAAAYajM.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FEFEtbq_U0AE80ep.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeGFweDlDWUtiUEUrcVl1TVZOSkc3ZFR1VGQzYmYxd01xOEMrZDdPSzlqVlJ3PT0.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2Fimg_0097.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;宝可梦剑盾
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FEQdpA3KU0AA0mMv.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>鬼泣旧图</title>
+      <link>https://robaku.site/posts/%E9%AC%BC%E6%B3%A3%E6%97%A7%E5%9B%BE/</link>
+      <pubDate>Sat, 31 Dec 2016 11:22:19 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E9%AC%BC%E6%B3%A3%E6%97%A7%E5%9B%BE/</guid>
+      <description>&lt;p&gt;2013年之前画的，小写占比比较大&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F4852287_orig.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F8731468_orig.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F9187729_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeFlIWVUxOFhIV1JRV3NpdnlMTjhYb0tiZyt4SENyUUhTWUh1eGJYd01ZcVhRPT0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;大写就两张
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeFlIWVUxOFhIV1JRWWJQMndRaUNVU2hLQldzZ3QxQ3NQM014VytBN0FNb1RnPT0.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%85%B6%E4%BB%96%E6%97%A7%E5%9B%BE%2F7122925617338662462.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>《幻影異聞録＃FE》通关感想</title>
+      <link>https://robaku.site/posts/%E5%B9%BB%E5%BD%B1%E7%95%B0%E8%81%9E%E9%8C%B2fe%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3/</link>
+      <pubDate>Sat, 23 Jan 2016 11:22:19 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E5%B9%BB%E5%BD%B1%E7%95%B0%E8%81%9E%E9%8C%B2fe%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3/</guid>
+      <description>&lt;p&gt;&lt;em&gt;（备份自Lofter，初发表时间见本文投稿时间）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2016年第一款游戏WiiU《幻影异闻录FE》‎(」・ω・)」通ー！(／・ω・)／关ー&lt;/p&gt;
+&lt;p&gt;顺便码几句关于这个游戏作为一个ATLU$粉的个人感想和评价，虽然其实上周就通了一直拖到现在2333&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;以下有一丝剧透哦♪&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本作是老任家的火焰纹章和A社家女神转生系列的联动，明明刚公开时的&lt;a href=&#34;https://v.youku.com/v_show/id_XNTA1OTkzNzEy.html&#34;&gt;这个影像&lt;/a&gt;，你还可以看到是和真女神转生的联动，当时好星魂星魂，哇这俩会怎么玩啊真女系列要素多不多啊巴拉巴拉。&lt;/p&gt;
+&lt;p&gt;但是游戏&lt;a href=&#34;https://v.qq.com/page/u/2/l/u0150aty92l.html&#34;&gt;正式公布&lt;/a&gt;后ATLUS立马改口说我们这其实是和整个女神转生系列的联动。然后你就看见了这款要唱着歌跳着舞演着戏来拯救世界的联动作品《幻影异闻录FE》（。&lt;/p&gt;
+&lt;p&gt;因为工作原因一直在报相关新闻所以游戏发售之前比其他人更了解一些，也更期待一点吧（劳资发了这么多条新闻为了犒劳自己也得买一盘回来批判批判系列x）。&lt;/p&gt;
+&lt;p&gt;既然是联动作品，那么我们首先就来说说这个联动，11区玩家有句很好的评价就是“合体事故”。本作火纹要素极少，可以说只有角色登场的程度而且脸都没露（。虽然剧情在第五章时猛然抛出个FE的玩意，然而都到这一步了你就会有种卵用的感觉。然后女神转生那边呢，并没有最核心也是最有魅力的恶魔及相关合成、交流、育成系统，只是简单地汲取了一些表面要素，颇有种让A社粉丝们自己从中找梗的感觉。加上偶像设定什么的整体氛围过于欢快轻松，觉得和哪作都搭不上边，所以这个联动绝对可以说——失败！！&lt;/p&gt;
+&lt;p&gt;所以那么多小伙伴看到这些就对游戏Q挥了我很是能理解。&lt;/p&gt;
+&lt;p&gt;虽然偏离了火纹和真女但是本作世界观设定自身上是很圆满的，火纹角色（幻影）在这里很像P系列的Persona，是英雄或是神般的存在。日本古代艺能来源于降神，也就是通过唱歌跳舞来让神降临在自己身上。游戏中的角色也是通过自己的艺能让火纹英雄们（神）附在自己身上，这就是开场树打出艺能力量螺旋丸（不）净化收服了克罗姆他们的原因。&lt;/p&gt;
+&lt;p&gt;然后克罗姆他们变成武器的形态授予主角们战斗的方法与力量，英雄们的力量是既定的并不会成长，而主角们要做的就是不断提高自己的艺能（=在娱乐圈混得更牛逼）来让英雄们的力量可以更大程度地降临在自己身上，所以才会有唱歌跳舞演戏也能拯救世界(´・ω・｀)。&lt;/p&gt;
+&lt;p&gt;然后来说系统？担当本作开发的主要是ATLUS，且其中有不少人是来自曾负责过《恶魔幸存者》的团队，所以系统上更偏A社，你能看到一大堆熟悉的技能熟悉的道具熟悉的图标ry战斗上采用了session系统，攻击弱点+队友追击，现在这个时点了我也不用介绍，反正感想就是一个字——爽！&lt;/p&gt;
+&lt;p&gt;session时的演出华丽，队友们的追击效果还可以成长。加上还能习得一定几率发动的即兴演出技能和合体技，玩起来相当带感。&lt;/p&gt;
+&lt;p&gt;游戏难度也和A社最近几作RPG差不多，懂的人瞬间GET，就是我开了个easy（虽然我开的是normal）以虐菜的打算观赏剧情而已，结果出个门就被虐了（不。然后死上几次你就可以开启Very easy难度，哇听起来怎么和真4有些像哦。&lt;/p&gt;
+&lt;p&gt;然后我要真正开始夸奖模式了（够。就是本作真不愧是ATLUS做的，这个迷宫烦的我要死（褒义。第二章那个让人想起TOZ水神神殿的照相机，还有第六章那个好像真3让我留下心理阴影的最终迷宫，事实证明这个破迷宫也让我迷路了一个半晚上原地乱绕……&lt;/p&gt;
+&lt;p&gt;每章迷宫机关设计没有重样，虽然到第五章有重复利用但看在第六章那么恶心（继续褒义）的份上我原谅你。&lt;/p&gt;
+&lt;p&gt;敌人方面，设计上更像是P3P4的shadow，除了火风冰雷以外属性还追加了火纹的骑士龙重铠什么的。敌人基本随着章节变，但是样式并不多，从外貌基本就能判断弱点，但是敌兵也可以session所以攻略起来并不是很容易。&lt;/p&gt;
+&lt;p&gt;BOSS方面有几只来自火纹的角色串场，嘛反正我火纹打得不多爱谁谁咯（喂。所以设计上看不出什么梗，不过BOSS战绝对是战斗最有趣的环节。&lt;/p&gt;
+&lt;p&gt;讲个忧伤的故事，曾经有个傻逼打真3时技能全点在了魔属性然后最终战被教做人，以后她打A社游戏都乖乖跑力系了……&lt;/p&gt;
+&lt;p&gt;所以这回开着男主的奶+力，男二斗马牛逼的力，男三弥代快速的力，全场チャージ+大招+session，再牛逼的BOSS也给我躺下x&lt;/p&gt;
+&lt;p&gt;我们再来说说音乐人设方面√这次选用了toi8还有爱生活的藤泽庆昌，既不算A那边的熟脸也不算FE的人吧，感觉从这点上就在表达我们比起联动作品来说更倾向于原创啊。个人对人设没啥意见，游戏中人物刻画也还是不错的，至少打完以后可以记得每个人特色。&lt;/p&gt;
+&lt;p&gt;音乐也可以表扬一下，藤泽的曲子优良，游戏中各位角色们演唱的歌和动画（动画制作是アニマ(《LOVELIVE!》等)、STUDIO4°C(《凯瑟琳》等)）非常精彩，歌曲都是角色担当声优亲自演唱的，声控=我大欢喜。&lt;/p&gt;
+&lt;p&gt;说了那么多优点，我们再绕回剧情来继续批判批判。最近A社作品的剧本都有几处想让人诟一下的欲望。P4相关几作我内心其实都是呵呵哒。P4的最终BOSS设定总会让我很失落，推理系走着走着变成超幻神论什么的真是痛。&lt;/p&gt;
+&lt;p&gt;但是奇妙的是就算再有漏洞再扯他每次还能绕回来跟前面钩上，就像P4D，一个好好的音游你要那么长剧情作甚，但是这剧情讲着讲着最后居然和P4本篇呼应了一下？！让我产生了到底应不应该喷他一下的疑问（no。&lt;/p&gt;
+&lt;p&gt;《幻影异闻录FE》的剧情也差不多了，打完下来有意思的地方很多特别是支线（这也是上面说人物刻画好的原因），但是主线看完还是让人满头问号，明明好像有很多漏洞但是你想喷却不知从何下口？&lt;/p&gt;
+&lt;p&gt;剧情发展怎么说呢，很传统派虽然没有白开水到《东京迷城》的地步但是你看到后也只是【哦原来如此】的反应也不会让人【ヽ(´Д`；)ﾉ】，包括某黑手出现当然如上是个人感觉。反而支线（和COMMU类似）和一些细节点会吓到&amp;amp;愉悦你，所以我越来越怀疑ATLUS的技能点越点越偏？&lt;/p&gt;
+&lt;p&gt;忘记说一点，有人想黑本作的读盘时间，大兄弟你打过一款叫《闪之轨迹》的游戏吗【NMB。&lt;/p&gt;
+&lt;p&gt;最后简单总结一下。这也不是什么安利文，该买的都买的，还没买的把我二手收走吧（喂。《幻影异闻录FE》作为联动的确糟糕地让粉丝失望，但是作为一款JRPG还是很不错的，至少玩过后不会让你觉得是浪费时间。打个分的话满分10分，系统5分+剧情3.5分+联动-1分=7.5分吧。&lt;/p&gt;
+</description>
+    </item>
+    
+    
     
     <item>
       <title>《God Eater2 moonlight mile》repo</title>
@@ -24,34 +1377,167 @@ TV动画版：</description>
       <pubDate>Sun, 14 Jun 2015 11:22:19 +0800</pubDate>
       
       <guid>https://robaku.site/posts/ge2repo/</guid>
-      <description>（备份自lofter，初发表时间见博客投稿时间）
-这本我其实刚发售时就入手了，之前曾经在GE专门志有连载。可惜本人身患一种懒得读小说的病(×)所以直到最近才刚刚读毕，下收一应算是《moonlight mile》的repo。
-首先总评，如封面所绘虽然左侧有爱丽莎不过整本小说是以soma为中心展开的，非常棒作者的笔法也很好，在倒叙中写正叙读起来一气呵成。虽然中间有大段赘余的科技知识科普(觉得完全可以一笔带过)。
-收录的剧情从12岁SOMA初阵(之前特典动画《苍穹之月》内容)一直到21岁摇篮成立与爱丽莎执行任务。原创剧情比较少，只有21岁任务那一段，应该说是以此为契机展开后续的回想。整本书也可以算是对无印及之前剧情的细致补充，最后以SOMA下决心作为研究者出发结束。
-封面与插图是GE2的官方漫画担当片桐老师所绘，很细腻的感觉，里面有两张chiot出没的非常棒!( ´▽`)
-推荐人群首先自然是喜欢SOMA的人，无印剧情部分自然还有chiot登场，喜欢盐妹的也不要错过，读小说演绎别离那段时我已泪流满面(;ω;)。其次就是想对《噬神者》第一部游戏有更深了解的人，我没有私心说实话，无印的主角真是……SOMA，所以那时大部分谜团、设定都围绕他展开。举个例子来说，特典动画最后出现的迷之触手正体与三个人在核爆炸中奇迹生还的原因，小说中都给出了官方解释。
-【接下来的感想富含ネタバレ内容】
-全书一开始是从21岁的SOMA开始记叙的，在开车途中和爱丽莎调侃可以见识3年后某人嘴炮功力的成长……才怪，其实SOMA以前就是毒舌，无印时KOUTA就对他有一句评价【あ!ソーマと言えばあいつ一言多いよな!無口なクセに一言多いって何かうかつくよなー!?】w。
-不过SOMA真是各种方面长大了，以前人见人嫌的死神，到现在和整备士妹子搭话就可以让人家脸红心跳，虽然本人毫无自觉w怪不得爱丽莎要说他是【宝を持ち腐れ】。不过要说最能表现出他成长的，还是之后新型荒神入侵时shun的一言评价【你现在就像林道一样】，我看到这时真是感慨万千啊。后面还张开盾救了Karel，妈呀SOMA麻吉男前满点☆
-虽然遗憾即便是SOMA也难敌感应种，被击倒后剧情一气进入了回想部分。12岁部分的回想读得我心都碎了，如果说21岁阅读心境是【↑】这样的，12岁部分就整个人是【↓↓↓】这样的。SOMA在回忆起12岁前的人生，有一句话是最好的概括：【每年过生日时得到的生日礼物，也只是一个比现在大一号的枷锁(轮腕)罢了】。
-第一次父亲和研究人员把他带到实验用荒神面前，第一次感受到【长针贯穿耳膜般的耳鸣与头疼，身体如同被火点燃了一般，不知从何而来的斗争心与饥渴难耐之感涌起】时，还是孩子的他嚎啕大哭，然而父亲约翰无动于衷，研究人员们也只是兴趣盎然地做着研究记录。
-在雨宫大姐头对支部长提议出征俄罗斯任务太过危险不建议12岁SOMA参加时，约翰指着SOMA大喝一声【这不是人类，是荒神!】(我……………………TM捏死鬼父的心都有了。)
-所以这个孩子才会在约翰介绍榊说这位是你我恩人的时候讲了一句【多管闲事】，因为他真的希望他自己这个“怪物”没有诞生过，这样母亲也不会变成荒神还吞噬了那么多人的性命。
-作者对于SOMA细节的描写拿捏地非常好，像是口吃、眼神什么的都能表现出SOMA虽然不善表达但非常温柔的性格。在与父亲最初也是最后一次亲人聚餐那里，还写了SOMA是怎么喜欢上葡萄汁的哈哈哈wwww
-之后进入18岁的无印剧情，这里的主轴故事自然就是两个人(?)的孤独与救赎。 (中间有一段很有趣的“榊博士运出阿纳格拉大作战”，与shun、karel和gina的互动太可爱了!)
-果然一开始soma非常抗拒chiot啊，明明是百分之百的怪物，却一点一点比自己更像人类，最致命的应该还是在“餐桌”那里邀请soma一起来吃荒神，游戏时我就doki了一下【完了这个地雷踩的】。不过盐妹的直球打的太棒了，的确是她让soma察觉到他在这个世界上不是独自一个人。
-藏匿chiot那段榊老贼居然把妹子强硬塞进了soma房里(我只想说博士GJ!)，不安分到处啃食真的像是小狗一样的chiot听着那首【离别的歌(my life)】渐渐睡去，soma想给她盖上毛毯，但是担心又会喊着【ちくちくいやーー!】跑掉只好作罢。(呜呜呜这段片刻安宁真是好暖!)
-但是终归还是要离别的，我前不久刚刚又把无印通了一遍，ED真的是看过很多遍，但是仍然哭成狗。不过本书最要我命的不是这里，全书另一个贯穿点就是soma与父亲ヨハネス的对决，这也是我会想跑去画爸爸的原因。
-游戏中看到的约翰是充满自信与抱负的，出口成章满腹经纶，还是那种让人无法全面否定的反派角色。虽然是无印的最终BOSS，但是父亲的论点的确是正确的，而错误也许就是因为过于正确……在18岁时约翰对soma说【如果觉得我是错误的话，何时都可以用你的神机来取我项上人头】，虽然我也希望父子间或许能有互相理解的一天，不过结局已经知晓。最后应了爸爸那句话罢了，soma同大家联手打倒了变成アルダノーヴァ的约翰。
-之后回想结束，走马灯的画面中看到了过去的场景，还没有怀孕的爱夏妈妈和约翰爸爸一起畅想着美好的未来，约翰说着【我的梦想是，何时我们取回不用再惧怕荒神的世界，然后和你以及我们长大的孩子一起喝你喜欢香槟】母亲回应【你想的真远，还不知道这孩子会不会喝酒呢】约翰父亲自豪笑着说【当然能喝了，因为是你和我的孩子啊!等他成年的时候就送他许多他出生那年的香槟作为礼物!】。
-突然画面一转，满是猩红鲜血的场景中，床上留着半个人形的肉块伸出长长触手捕食着医生与护士，约翰在一旁发狂绝叫着【住手!住手啊爱夏!要吃的话就来吃我吧!拜托了，SOMA、只有SOMA不要伤害他!】这时榊送的安产的护身符发挥效果，让曾经是“爱夏”的东西崩坏了。恍惚的约翰愤怒地举起SOMA大叫着【荒神!该死的荒神!一匹都不要留全部根除掉!】，想要将儿子摔死在地上……然而之后只是缓缓的将SOMA抱回胸前呜咽哭泣起来。
-soma问过约翰【你真的爱过母亲吗?如果爱过为什么会让她投身于那么危险的实验!】 榊问过soma【你喜欢你的爸爸和妈妈吗?】。
-打过游戏都知道，虽然SOMA是半个荒神，而父亲理想世界名单上仍写了儿子的名字自己却并未在列……
-(读到这的时候泪腺已经完全崩溃了，我是对这种亲情戏码很没办法的人，原谅我很没感情的叙述让人根本体会不到，不过小说中这里真的太棒)。
-关于之后SOMA如何打败感应种的细节我就不多说了，看到一直以来叛逆心MAX害怕与别人深交的中二笨蛋，自己开口说出【榊欧桑也年纪不小了，必须有人来继承研究事业】的时候真是特别欣慰……
-最后几个人在支部长室找到了约翰藏匿的SOMA出生那年的香槟酒，还有当年与父亲吃饭时喜欢上的葡萄汁。
-我就觉得其实约翰亲马鹿的妄想也不一定只是妄想啊w</description>
+      <description>&lt;p&gt;&lt;em&gt;（备份自lofter，初发表时间见博客投稿时间）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;这本我其实刚发售时就入手了，之前曾经在GE专门志有连载。可惜本人身患一种懒得读小说的病(×)所以直到最近才刚刚读毕，下收一应算是《moonlight mile》的repo。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E5%99%AC%E7%A5%9E%E8%80%85%E6%97%A7%E5%9B%BE%2FaWkyYjN1bHJaeGEvL290VkRWMG1hMzRsQWtFeUZVMVN0OHRweUlZRDVSb3JKZWxaTkZoRTFBPT0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;首先总评，如封面所绘虽然左侧有爱丽莎不过整本小说是以soma为中心展开的，非常棒作者的笔法也很好，在倒叙中写正叙读起来一气呵成。虽然中间有大段赘余的科技知识科普(觉得完全可以一笔带过)。&lt;/p&gt;
+&lt;p&gt;收录的剧情从12岁SOMA初阵(之前特典动画《苍穹之月》内容)一直到21岁摇篮成立与爱丽莎执行任务。原创剧情比较少，只有21岁任务那一段，应该说是以此为契机展开后续的回想。整本书也可以算是对无印及之前剧情的细致补充，最后以SOMA下决心作为研究者出发结束。&lt;/p&gt;
+&lt;p&gt;封面与插图是GE2的官方漫画担当片桐老师所绘，很细腻的感觉，里面有两张chiot出没的非常棒!( ´▽`)&lt;/p&gt;
+&lt;p&gt;推荐人群首先自然是喜欢SOMA的人，无印剧情部分自然还有chiot登场，喜欢盐妹的也不要错过，读小说演绎别离那段时我已泪流满面(;ω;)。其次就是想对《噬神者》第一部游戏有更深了解的人，我没有私心说实话，无印的主角真是……SOMA，所以那时大部分谜团、设定都围绕他展开。举个例子来说，特典动画最后出现的迷之触手正体与三个人在核爆炸中奇迹生还的原因，小说中都给出了官方解释。&lt;/p&gt;
+&lt;p&gt;【接下来的感想富含ネタバレ内容】&lt;/p&gt;
+&lt;p&gt;全书一开始是从21岁的SOMA开始记叙的，在开车途中和爱丽莎调侃可以见识3年后某人嘴炮功力的成长……才怪，其实SOMA以前就是毒舌，无印时KOUTA就对他有一句评价【あ!ソーマと言えばあいつ一言多いよな!無口なクセに一言多いって何かうかつくよなー!?】w。&lt;/p&gt;
+&lt;p&gt;不过SOMA真是各种方面长大了，以前人见人嫌的死神，到现在和整备士妹子搭话就可以让人家脸红心跳，虽然本人毫无自觉w怪不得爱丽莎要说他是【宝を持ち腐れ】。不过要说最能表现出他成长的，还是之后新型荒神入侵时shun的一言评价【你现在就像林道一样】，我看到这时真是感慨万千啊。后面还张开盾救了Karel，妈呀SOMA麻吉男前满点☆&lt;/p&gt;
+&lt;p&gt;虽然遗憾即便是SOMA也难敌感应种，被击倒后剧情一气进入了回想部分。12岁部分的回想读得我心都碎了，如果说21岁阅读心境是【↑】这样的，12岁部分就整个人是【↓↓↓】这样的。SOMA在回忆起12岁前的人生，有一句话是最好的概括：【每年过生日时得到的生日礼物，也只是一个比现在大一号的枷锁(轮腕)罢了】。&lt;/p&gt;
+&lt;p&gt;第一次父亲和研究人员把他带到实验用荒神面前，第一次感受到【长针贯穿耳膜般的耳鸣与头疼，身体如同被火点燃了一般，不知从何而来的斗争心与饥渴难耐之感涌起】时，还是孩子的他嚎啕大哭，然而父亲约翰无动于衷，研究人员们也只是兴趣盎然地做着研究记录。&lt;/p&gt;
+&lt;p&gt;在雨宫大姐头对支部长提议出征俄罗斯任务太过危险不建议12岁SOMA参加时，约翰指着SOMA大喝一声【这不是人类，是荒神!】(我……………………TM捏死鬼父的心都有了。)&lt;/p&gt;
+&lt;p&gt;所以这个孩子才会在约翰介绍榊说这位是你我恩人的时候讲了一句【多管闲事】，因为他真的希望他自己这个“怪物”没有诞生过，这样母亲也不会变成荒神还吞噬了那么多人的性命。&lt;/p&gt;
+&lt;p&gt;作者对于SOMA细节的描写拿捏地非常好，像是口吃、眼神什么的都能表现出SOMA虽然不善表达但非常温柔的性格。在与父亲最初也是最后一次亲人聚餐那里，还写了SOMA是怎么喜欢上葡萄汁的哈哈哈wwww&lt;/p&gt;
+&lt;p&gt;之后进入18岁的无印剧情，这里的主轴故事自然就是两个人(?)的孤独与救赎。
+(中间有一段很有趣的“榊博士运出阿纳格拉大作战”，与shun、karel和gina的互动太可爱了!)&lt;/p&gt;
+&lt;p&gt;果然一开始soma非常抗拒chiot啊，明明是百分之百的怪物，却一点一点比自己更像人类，最致命的应该还是在“餐桌”那里邀请soma一起来吃荒神，游戏时我就doki了一下【完了这个地雷踩的】。不过盐妹的直球打的太棒了，的确是她让soma察觉到他在这个世界上不是独自一个人。&lt;/p&gt;
+&lt;p&gt;藏匿chiot那段榊老贼居然把妹子强硬塞进了soma房里(我只想说博士GJ!)，不安分到处啃食真的像是小狗一样的chiot听着那首【离别的歌(my life)】渐渐睡去，soma想给她盖上毛毯，但是担心又会喊着【ちくちくいやーー!】跑掉只好作罢。(呜呜呜这段片刻安宁真是好暖!)&lt;/p&gt;
+&lt;p&gt;但是终归还是要离别的，我前不久刚刚又把无印通了一遍，ED真的是看过很多遍，但是仍然哭成狗。不过本书最要我命的不是这里，全书另一个贯穿点就是soma与父亲ヨハネス的对决，这也是我会想跑去画爸爸的原因。&lt;/p&gt;
+&lt;p&gt;游戏中看到的约翰是充满自信与抱负的，出口成章满腹经纶，还是那种让人无法全面否定的反派角色。虽然是无印的最终BOSS，但是父亲的论点的确是正确的，而错误也许就是因为过于正确……在18岁时约翰对soma说【如果觉得我是错误的话，何时都可以用你的神机来取我项上人头】，虽然我也希望父子间或许能有互相理解的一天，不过结局已经知晓。最后应了爸爸那句话罢了，soma同大家联手打倒了变成アルダノーヴァ的约翰。&lt;/p&gt;
+&lt;p&gt;之后回想结束，走马灯的画面中看到了过去的场景，还没有怀孕的爱夏妈妈和约翰爸爸一起畅想着美好的未来，约翰说着【我的梦想是，何时我们取回不用再惧怕荒神的世界，然后和你以及我们长大的孩子一起喝你喜欢香槟】母亲回应【你想的真远，还不知道这孩子会不会喝酒呢】约翰父亲自豪笑着说【当然能喝了，因为是你和我的孩子啊!等他成年的时候就送他许多他出生那年的香槟作为礼物!】。&lt;/p&gt;
+&lt;p&gt;突然画面一转，满是猩红鲜血的场景中，床上留着半个人形的肉块伸出长长触手捕食着医生与护士，约翰在一旁发狂绝叫着【住手!住手啊爱夏!要吃的话就来吃我吧!拜托了，SOMA、只有SOMA不要伤害他!】这时榊送的安产的护身符发挥效果，让曾经是“爱夏”的东西崩坏了。恍惚的约翰愤怒地举起SOMA大叫着【荒神!该死的荒神!一匹都不要留全部根除掉!】，想要将儿子摔死在地上……然而之后只是缓缓的将SOMA抱回胸前呜咽哭泣起来。&lt;/p&gt;
+&lt;p&gt;soma问过约翰【你真的爱过母亲吗?如果爱过为什么会让她投身于那么危险的实验!】
+榊问过soma【你喜欢你的爸爸和妈妈吗?】。&lt;/p&gt;
+&lt;p&gt;打过游戏都知道，虽然SOMA是半个荒神，而父亲理想世界名单上仍写了儿子的名字自己却并未在列……&lt;/p&gt;
+&lt;p&gt;(读到这的时候泪腺已经完全崩溃了，我是对这种亲情戏码很没办法的人，原谅我很没感情的叙述让人根本体会不到，不过小说中这里真的太棒)。&lt;/p&gt;
+&lt;p&gt;关于之后SOMA如何打败感应种的细节我就不多说了，看到一直以来叛逆心MAX害怕与别人深交的中二笨蛋，自己开口说出【榊欧桑也年纪不小了，必须有人来继承研究事业】的时候真是特别欣慰……&lt;/p&gt;
+&lt;p&gt;最后几个人在支部长室找到了约翰藏匿的SOMA出生那年的香槟酒，还有当年与父亲吃饭时喜欢上的葡萄汁。&lt;/p&gt;
+&lt;p&gt;我就觉得其实约翰亲马鹿的妄想也不一定只是妄想啊w&lt;/p&gt;
+</description>
     </item>
+    
+    
+    
+    <item>
+      <title>《女神异闻录2》初见流水账repo</title>
+      <link>https://robaku.site/posts/%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%952%E5%88%9D%E8%A7%81%E6%B5%81%E6%B0%B4%E8%B4%A6repo/</link>
+      <pubDate>Mon, 02 Apr 2012 11:45:31 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%952%E5%88%9D%E8%A7%81%E6%B5%81%E6%B0%B4%E8%B4%A6repo/</guid>
+      <description>&lt;p&gt;&lt;em&gt;（备份自旧Weebly博客，初发表时间见本文投稿时间）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87/P2S%20%281%29.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;因为罚的重制消息放出和发售临近，终于逼迫我第三次（…）捡起了罪。如前篇日志说我对金子一马的人设第一印象并不喜欢因为画风不对口的原因，也是因为入门是副岛的P3中毒是P4这两部都已经算是新P系列，与前作在内容和各种设定上都有太大的不同。第一次接触罪的时候完全没有感觉更加上PS时代时的游戏画面，接触了一个开头就速速坑下了（。&lt;/p&gt;
+&lt;p&gt;现在的再开不同感很多，例如看到自己把P系列唯一一个明确官方给出名字的主角刷刷刷删除改为万用名：棺生昼羽的时候真是后悔。很喜欢达哉这个主角，如果相比较起来大概是要在P4的番长之上，虽然设定比较少也没有很多选择肢丰富人物性格，但是只凭初始要素：冷漠，受欢迎，独来独往被叫做一匹狼，还有喜欢听伴随多年的打火机开关的声音这个小动作就已经深深戳到我（萌点太奇怪。&lt;/p&gt;
+&lt;p&gt;（接下来涉及大量剧透打开注意）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(14).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这里是被舞耶姐姐说第一次看到你笑意外地很天真可爱的时候，达哉的小红脸！从开篇到现在最有人情味的表情瞬间——❤——&amp;gt;我&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(12).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;后来紧接拉出和淳的回忆杀，关于达哉一直伴在身边的打火机的由来，虽然我满心的重点都变成了达哉小时的立绘和从小就青梅竹马互送定情信物巴拉巴拉（错成了一片。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(11).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;结果醒来就被达哉厨的リサ的膝枕调戏了ｗｗｗｗｗｗｗｗｗ脑海里都可以自己脑补可爱死的达哉的睡颜。&lt;/p&gt;
+&lt;p&gt;P2罪中主角的四人（ユッキー虽然也是主角之一但是和10年前事件并无关联）在感觉似曾相识但是却毫无回忆地相遇了，最一开始的剧情（如前面截图的某学生会长事件等）基本上都是用来描述流言系统和JOKER相关的铺设。&lt;/p&gt;
+&lt;p&gt;先说一下系统自我感受，开始的理解真是很费力，和P3，P4完全不同。通过同恶魔的情感交流订立契约拿到的阿尔卡纳卡片而进行的ペルソナ召唤（我怀疑P2的イゴール爷爷莫非是集卡爱好者（别闹。P2的每个可参战角色都可以任意切换P这是最大的不同，大家都有特异专用的初始ペルソナ和改以及最终版（顺带提达哉的阿波罗真的是很喜欢），但是根据后面战斗的需要就要通过刚才所说的系统召唤出更强力的P有助于战斗。虽然像很多人所说P2罪的战斗难易度真的很低，可以一P战到底ｗ而且碰敌率太高导致战斗是这样那样的让人烦躁，不过我这点还好，因为罪的合体攻击系统设定个人觉得很棒，不管是攻击效率和画面效果都很爽而且每次合攻时的立绘欣赏是我很大的乐趣ｗｗｗｗｗｗｗｗｗ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(4).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;特意截的达哉和淳发动狂焔乱舞激合体技时的演算，基本后期的全体技都可以达到一击全灭的效果，当然觉得很烦或者迷宫进行时完全可以SKIP跳过战斗这也算是P2罪少数的便利设定。&lt;/p&gt;
+&lt;p&gt;不过P2的迷宫真是麻吉够我烦躁死，而且我的老龄PSP2000摇杆已经出现自动问题更是给这点加分不少（眼神死。不时的落坑还有不可躲避的地上陷阱快要弄疯我。而且出于剧情上需要还要不时跑来跑去甚至一个迷宫地图过两三遍，这种恶意延长主线长度的感觉让人觉得在很多地方白用功很烦人。&lt;/p&gt;
+&lt;p&gt;另外第二个让我烦躁就是恶魔情感交流，心理测试人类的神信仰问题大姐姐的杂志什么时候算是老女人我好想丢了PSP砸在那群恶魔的脸上呢＿ノ乙(､ﾝ､)&lt;/p&gt;
+&lt;p&gt;另外流言系统，说可以是P2罪系统的重点也可以说是……在某些地方很奇怪？操作流言可以达到各种各样的效果最终还决定性地影响了整个剧情。但是在武器防具购买这方面用这些简直就是多余，不过也可能只是为了葛叶侦探所不会失业收费毕竟那么高（才不是。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;剧情随之便是对于为大家实现梦想但是却最终将人类变为影人间的JOKER流言的追逐，而牵代出的假面党和拥有四色骷髅的四位干部。开始的猜测是每个干部都会有一次针锋相对的角逐，但是没想和リサ相关的那位很简单的就干掉了，而和ユッキー相关的杏奈也为多作太多描写甚至连正面冲突都没发生就被收服变成了用心棒【。而另一个淳的妈妈更是悲剧性收场。其中最多关联也只有狮子先生，完全因为和十年前的事件有关罢了，这位到最后喊着我并不是父母的人偶的悲剧人物大概只是希望用火燃尽束缚住自己的一切。不过他的事件还是有很多有趣的地方。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(10).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;寻找托宣这里同样是“……！”的反应后立马救了舞耶姐的达哉结果轮到荣吉这里也“……！”了一下动也不动看着荣吉被健身器材猛砸真是ｗｗｗｗｗｗｗｗｗ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(22).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;还是我们可爱（？）的男二荣吉，从飞行艇利用P技能下跳的时候嘴里说着这样那样结果恐高被ユッキー从后面一脚踹了下去ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ&lt;/p&gt;
+&lt;p&gt;而后被狮子提醒后回忆起十年前事件的リサ带着大家一同想起了这篇的主题“罪”。&lt;/p&gt;
+&lt;p&gt;如果我说，不过是一群在现实生活失败了而聚集在一起的孩子好不容易能找到治愈自己的存在，于是当这个存在要离开的时候而由于产生的占有欲寂寞等情愫做出的孩童任性的举动罢了。不过这是一个作为已成年者的角度，更是作为一个没有经历过他们所带有的痛的人的角度。&lt;/p&gt;
+&lt;p&gt;大家都有所谓的阴暗面，リサ与众不同的发色，荣吉对老爸的恐惧口吃大概也是一部分吧，淳的家庭悲剧，达哉的独来独往还有没有提及的家庭，而舞耶也同样，对常年不见父亲的想念以及后来失去后的伤心。这样几个孩子彼此支撑一般聚在了一起，建立了假面党这个首罪，构筑了羁绊但也因此纠葛诞生的其他罪，甚至最后差点夺去“姐姐”生命的罪孽。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(5).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;但是他们也度过了十分快乐的时光，上面这张大家带着假面玩过家家的回忆，毕竟友情爱和羁绊什么的并没有任何错。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(3).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;还有被说为十分相似的淳和达哉大概也未曾想后来会发生那般的对立和憎恨。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(9).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最后从错误的回忆中解放出来的JOKER——淳，说着我一直作著恶梦眼角带泪的淳，因为父亲和母亲的不和纠葛而一直抱有相当痛苦的淳，只是个让人心疼的孩子。其他人也如此，于是我们是否可以说如果没有犯错便没有成长。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;接着便是决心和“父亲”做出对决的淳和大家的最后考验。和影自我的对决这里便是成长很至关重要的一环，排除很涩会的大家关于荣格心理学的考据，只是单纯说他们勇气地面对自己有意识或者无意识而产生的阴暗面战胜了自我最后有所长成即可。（P4把这点很好的继承走了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(18).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;一直因为发色其实自卑而不敢表达自己情感的リサ这里算是和自己的影很好的抢了一次情人么^q^&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(8).jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(13).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我相当喜欢リサ这个女二，率真有时候很男孩气用尽全力去爱一个人的感觉，相对舞耶姐除了操作这点稍微有些特色外的治愈角色，更喜欢这个说着“我才不会输给大妈和男人”大大咧咧的女孩。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(23).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;所以这里还是比较不犹豫的选了一项ｗｗｗｗｗｗｗｗｗ虽然私心让我想选倒数二好好玩一下不过理智真是个可怕的东西呢(´・ω・｀)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(6).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;荣吉这边…………真是不要太帅了！荣吉居然可以这样帅居然可以！一开始就没嫌弃已经发胖变丑的华小路雅，最后还喊著雅是我的女人，荣吉麻吉是好男人！（另外很想问雅的减肥方法诶（揍。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(19).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;达哉的影特意留在了最后攻克，如愿听到了子安大人的声音ｗ不过这边也太腐完全是和淳的情感问答，最后确定自己没有恨过（我是这么选的）JOKER——淳仍然深深爱着自从前就近似的相棒（误了一片。&lt;/p&gt;
+&lt;p&gt;于是最后迎来了BOSS战和结局，这也是我对P2罪的第三大痛也是最深感受。&lt;/p&gt;
+&lt;p&gt;从一开始到最后所有的咎因全部归于了大家的相遇而诞生出的扭曲的罪，还有那两个观察人类的人的操控——引导坚强的人的フィレモン以及全人类影的ニャルラトホテプ。已经接近疯狂的冈村真夜用带有刺伤后血永远止不住的传闻的朗基努斯枪贯穿了和自己同样名字“MAYA”的舞耶献为了生讃，实现了她一直妄想的预言毁灭世界，最后还和心目中的最爱“橿原明成”一同消失了踪影。留下了已经死去的舞耶和不知所措的四个孩子。&lt;/p&gt;
+&lt;p&gt;只有消除大家相遇时的节点然后作为平行世界避过这些的发生踩了拯救世界和舞耶。这种LOOP式结局真的永远是我心中的痛，与其大家一起死掉也不愿意看着他们之间的联系一根根断掉变成陌人。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(7).jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(2).jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(21).jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(15).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;リサ的吻别和大家一一的道言，上演到这里的时候眼泪就撑不住了。第一遍的时候自己真的不想接受这样的结局，忙了很久结果最后却什么都没得到的感觉一切归于零。
+但是阅读了一些评论后和第二遍结局的感受，终于能够让自己接收到可以感慨的地步。大家的确回到了一切的开始，达哉在校园驻停场修摩托被老师继续叫去进路询问的场景那么熟悉，但是这里的选择肢已经可以毫不犹豫的摁下了。大家仿佛的回归但是却着实在心中无意识的地方得到了成长，已经取得的这种财富没那么容易消失，而最终再次聚在一起相遇的大家心中应该还留着那份“似曾相识”的羁绊。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(16).jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(20).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;主线剧情的感想就到这里就差不多了，如题所说完全的流水账。实话说对于这部游戏我还真的没办法好好做出一个整理划定出正确的主题来总结，里面涉及的信息量多到烦，玛雅人预言，二战的德军秘密部队，耶稣之死等等，大概都是由于流言系统的设定缘故。不过如果真的要总结一下&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%2FP2S%20(17).jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我会用舞耶姐姐这句话来，当然同样关于成长，而且是关于成长路上对于梦想的追寻，实现梦想不要依靠别人的力量自己努力才是最重要的ｗｗｗｗｗｗｗｗｗ&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>《深渊传说》通关repo</title>
+      <link>https://robaku.site/posts/%E6%B7%B1%E6%B8%8A%E4%BC%A0%E8%AF%B4%E9%80%9A%E5%85%B3repo/</link>
+      <pubDate>Sun, 11 Mar 2012 11:47:22 +0800</pubDate>
+      
+      <guid>https://robaku.site/posts/%E6%B7%B1%E6%B8%8A%E4%BC%A0%E8%AF%B4%E9%80%9A%E5%85%B3repo/</guid>
+      <description>&lt;p&gt;&lt;em&gt;（备份自旧weebly博客，初发表日期见文章日期）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;拖了好久终于打起精神准备干完这篇repo。&lt;/p&gt;
+&lt;p&gt;完成TOA的游戏时间跨度真的是相当大，从暑期.HACK//G U通关后，就开了头然后还带到学校里继续，用毫不清晰的电视盒接起二公主玩了大概一个月不到，就被AV线将死不死的画面搞到兴致全无。然后到寒假回家却在临近开学几天才囫囵通关，支线都没有全部クリア的半糟状态下呢（。&lt;/p&gt;
+&lt;p&gt;原因有二除了我懒（。）当然就是原本TOA的故事脚本就相当长，排除一开始飞行艇没有入手和进化阶段在大地图迷失方向的呕吐感（麻吉晕得呕了两次非常不舒服），还有每道转向的迷宫之外“不过迷宫攻略比较得手，只要不是TOD2出现的那种时间限制下→迅速找到OOXX物才能走出迷宫这种蛋痛的设定就一切大胶布（用手糊了脸。”，相当厚重的支线副本（？）和漫长的主线剧情本身就是快速通关的考验。&lt;/p&gt;
+&lt;p&gt;不过即便是这么长——————（你玩够了）的主线，却一点都没有让人觉得无趣。除了个人原因“一辈子嫁ガイ様的鸡血”，本身就是神作（这个也要算是个人情绪么）这一点绝对毋庸质疑ｗｗｗ
+喜欢上TOA是从动画开始，大概是08年的时候，高考的娃子身上只有一台PSP2000还是刚入不满一年，而且再加一条白的不能再白的设定，直到被动画（ガイ様）拉入了万丈深渊（喂。&lt;/p&gt;
+&lt;p&gt;时隔3年以后的回补，所以想把这篇repo写的稍微文绉绉一些（。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;（接下来会涉及剧透和电波阅读请谨慎）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;相比短短26集匆匆走完主线的动画，游戏的剧情不知要丰富多少，原本只是了解大概就全无印象（…）的很多角色，这次却被填满了骨头和肉变得充实深刻起来。&lt;/p&gt;
+&lt;p&gt;ルーク，这个孩子真的是把我眼泪都要榨干了。原本刚出来也就是个ボンボン的样子，稍微（？）有些毒舌和相当的不谙世事，但是还没有那么急着想要去获得谁的肯定。但是当从和テイア的第一次“旅行”回来，再次遇到师匠的时候，突然就变得自负任性，满心都是师匠师匠师匠师匠，完全把自己交予他人却还希望别人来认同自己的存在。然后就是大家熟知的那句经典得不能再经典的话语，“俺は悪くねぇっ！”（当时还连截N张的我）。&lt;/p&gt;
+&lt;p&gt;长发版的ルーク实话说我真的很不喜欢，不过如果不喜欢了也就达成了死大腐的遗愿（咦）。让大家一个一个转身离开令人丧失期待的ルーク，然后在这里发动了男主特权的魔法少年变身（别闹。笔锋一转，突然就有一个嘴调带着一点自屈，正在学习敬语的短发少年站在花海里说自己希望，不，是一定要改变。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%E2%91%A1%2F833344497_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我简直不知道自己是有多喜欢这里，in between 1 and 0的BGM响起的时候整个人的心境平静的没有波澜，然后看着那一片魔界里唯一的花丛里那个任性的少爷的转变，还有テイア平和温柔的笑颜。&lt;/p&gt;
+&lt;p&gt;这里不由得插入一下对女主角テイア的感想，其实游戏里能遇到让我喜欢的女主角真的是很难，像是G U里的苏神アトリ就的是再也不想有的奇葩（…）。但是テイア真的是很喜欢，不是热情的爱就只是平静的喜欢，就如テイア本身就给人那种很波澜不惊的感觉。不管是哭还是笑都让人感受到的是一个倔强的女孩。瘴气毒害知道自己命不久远却要执拗地完成使命，与自己唯一血亲的对立以及最后得知ルーク的病情，她都没有逃避勇敢地承接下来然后直面不知会怎样的未来。テイア不是圣母类角色，她有着喜欢萌物却不想让人知道，胆小怕鬼，有时很易怒还很“男生”味道的特质，但是照样着实的治愈了很多人。&lt;/p&gt;
+&lt;p&gt;但是另一方命途坎坷的男主角却总让人心疼，虽然说要改变却一直无法找到自我和活下去意义的心境，追逐著师匠只希望达成最初那对自己的认同，所以在第一次打败ヴァン以后没有得到答案的自己，反而在原本自己的家找不到容身之所变得愈加迷茫起来。&lt;/p&gt;
+&lt;p&gt;嗯，大概在这里想要说一下另外一个主角，アッシュ的出场戏份其实很少，加入队伍可操作时也是一瞬间，连秘奥义都没看到就脱离了。但是依然瞥见了一个总是扑克脸别扭却总会出手相助的少年。被复制品抢走了家父母未婚妻，忍受着痛苦在诱拐犯身边还与之共事，心里清楚地明白被实验体必然消失的命运，最终迎接来了一个凄惨的死亡。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%E2%91%A1%2F241958392_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;除了结局ED，这里大概是我哭的第二惨烈的地方，原本已经知道这样的结果，但是看着アッシュ强势地把ルーク送出门外，看着他被数把剑刺进胸膛，看着他踉跄倒地，看着他依稀一口气却很释然的说：“あとは赖む”。简直就是要人泪腺HP的究极。&lt;/p&gt;
+&lt;p&gt;的确，他相对于ルーク命运更加可悲，至少我这么认为。但是尽管这样那样的不幸这个孩子却依然顽强地活着，在ルーク苦苦寻求生存意义的时候，已经知道自己难逃一死的アッシュ却急迫地完成自己还能做到的使命。大概是为了和未婚妻稚嫩的约定，又或者是身为ヴァン的弟子的责任感，不管如何他的一切直到死亡都让人觉得敬佩。
+但是アッシュ也迷茫过，他一直都认为抢了自己存在之所的ルーク是自己的替代品罢了，但是不知什么时候这个复制品却开始叫嚣著“我不是你，我是我自己”。&lt;/p&gt;
+&lt;p&gt;ルーク也同样，这大概是TOA想要表达的感情之一。作为复制品出生，原本就没有所谓的羁绊、血缘和容身之所，但是种种的相遇和不同人的交流形形色色故事发生，不管是不是拥有相同的容颜相同一切，都是完全不同的个体，都是有别于其他任何人的自我。&lt;/p&gt;
+&lt;p&gt;所以在最后アッシュ才会站在相对立的另一端对着ルーク拔剑相向，为了认同对方也为了认同自己。
+而一直迷茫的ルーク，也在中和瘴气从何大家的对话别离决定自我牺牲的选择时，才明白自己不是为了什么意义而活着，而是因为自己不想死想要活下去而活着；不是为了获得别人的肯定，而是懂得了“俺はここにいる”只要这样就别无所求。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%E2%91%A1%2F225019350_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%E2%91%A1%2F820117990_orig.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这两张很喜欢的，算是他们的第一次合作，每次总是アッシュ擅自帮忙，然后擅自离开仓促地不得了。而ルーク每次也总是蠢得可怜兮兮，但是一直都在用力地想办法解决问题。两个人都是让人喜爱到不行的孩子ｗ&lt;/p&gt;
+&lt;p&gt;主角篇们的感想大概是这些，然后就简单地说些其他人。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;偏心来说其实ガイ様我都想单独写满满一篇爱的告白，不过自我作罢还是浓缩来说ｗ&lt;/p&gt;
+&lt;p&gt;动画的时候就爱死了这个有贵族绅士味道、金发但是女性恐怖症的家伙，出场的时候还会很飒爽地说：“ガイ様は华丽に参上”（面红耳赤），游戏里因为也是相当偏心向的ガイ様第一操作视角（不出意外），所以基本每场战斗完毕都是ガイ様的结语，那个把剑甩回剑鞘的动作简直是让我厨的夜不能寐，还有换装称号的那几件衣服巴拉巴拉（泥垢。&lt;/p&gt;
+&lt;p&gt;当然除了这些小捏他以外，ガイ样身上的故事就很让我疼爱（用词注目）。可以说是为了复仇多年的卧薪尝胆，但却在经意间被自己认定的仇人的一句无心的话改变了以往的人生观。因为姐姐的死亡而造成阴影变得恐惧女性的痛苦之大自己最清楚，但是人不能被过去一直所束缚著而永不前进。相较于被毁灭家乡的苦愁一直萦绕的总长，拥有类似痛苦ガイ却选择了放弃复仇，不管是在签订和平契约时寻求真相，还是看到自己已死的姐姐的复制品和挂置于天空的家乡，都未曾后悔过自己的决定。&lt;/p&gt;
+&lt;p&gt;当然还有不离不弃地留在大亲友身边↓↓↓放下自己原本贵族的身份，愿意做永远ルーク佣人的骑士心（那个起誓跪我麻吉是要被萌翻死/////），像孩子一样对音机关的偏执，虽然冷静但是待人却无比的温柔，这样的男人怎么可以不让人爱呢，怎么可以！（快让这个人闭嘴。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://baku-1308169645.cos.ap-beijing.myqcloud.com/%E6%97%A7%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%9B%BE%E7%89%87%E2%91%A1%2F194738835_orig.jpg&#34; alt=&#34;&#34;&gt;
+&lt;em&gt;（感谢阿锅模拟器截的睾清ｗｗｗ）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;大佐的话这回是觉得动画里的描写更丰富些，游戏里只是借妹妹之口用语言叙述了关于他和ヂイスト的老师那段过去。不过子安的声音演绎地太完美，聪明绝顶但是腹黑的ジェイド哪怕很少谈及自身，也相当具有冲击性的存在感站在那里。小捏他也萌的很，例如穿着泳衣换装战斗是要进行研究，无限制地把说明役交给ガイ来担当之类。&lt;/p&gt;
+&lt;p&gt;不过从这些很细小的东西可以看出ジェイド很多方面，虽然看起冷酷而且嘴也毫不留情叙述事实的大佐，但是仍然会在ルーク踏上死亡的时候说出“作为友人不想让你去死”这样话来。无论过去的他是怎样的，但是被某个养兔猪专业户（喂）改变的他，却想要把当初唤醒死者而开发出，却被用在错误地方上的技术改进，让他变得完美而造福他人，这样的大佐太有魅力了。&lt;/p&gt;
+&lt;p&gt;ナタリア姫真的算是动画毫无感觉，然后被游戏拉起爱的角色。无关那些动画已经知晓的身世背景之外，她自身很多方面就已经很可爱。即便不是为了和アッシュ的约定，也多少年设身处地尽心竭力地考虑著自国的子民，非常好的诠释了一个在皇权阶级条件下的优秀统治者，而且还有料理无能、满嘴官腔、出身贵族但是从小却把女义盗当做偶像的这些萌点，作为配角刻画地很讨喜了。&lt;/p&gt;
+&lt;p&gt;然后是アニス，这个要和イオン一起说。原本イオン整个角色在我心中都可有可无，只是做了剧情的需要和引领，アニス也只是一个鬼精贪财的小孩子罢了。&lt;/p&gt;
+&lt;p&gt;不过游戏里イオン和アニス之间的绊描写更丰富则使得我喜欢上了他们，特别是在两个人最关键的那段剧情里，将近消失的イオン隐约地对着アニス说“再见了，我最重要的人”时心真是碎的七零八落。之后再和同イオン一样复制品的シンク战斗中，アニス哭着说再也不想看到有人和イオン様一样死去。不再是什么大道理之类，只是单单这种看着重要的人消失的感觉就让人心为之一紧。&lt;/p&gt;
+&lt;p&gt;除了这些角色还有许多让人印象深刻的人，六神将的每个人都是抱着自己的思念和情感而选择站到敌人那方，没有一个人是单纯的恶人，最后精神污染变得丑不堪言的モース只是尽著自己咏师的职责希望遵循着预言给大地带来繁荣。至于最终BOSS的总长，应该算一直在被过去和预言双重束缚下的可怜人罢了，其实那个テイア最喜欢哥哥，一定是个温柔而严厉的大叔（？）吧。&lt;/p&gt;
+&lt;p&gt;围绕着一开始就设定的类似于命运的让人觉得不可抗争的预言，围绕着复制品，围绕着过去的痛苦。这一路上有很多开心的事情，但是更多的是让人觉得伤心落泪的痛苦，但是痛苦和痛苦过后，大家都成长了然后一同站在故事最后的终点迎接着友人，顺便一同迎接无可预知的未来的起点。&lt;/p&gt;
+&lt;p&gt;通关后的ED真是让我从头哭到尾。&lt;/p&gt;
+&lt;p&gt;每个人从小到大，没有阴影悲伤过去只是单纯的一帧帧画面。
+然后在画面最后的CG，又是一整片的花海，ルーク遵守了诺言慢慢走回テイア的身边，真的是让人很知足的ED了。&lt;/p&gt;
+&lt;h2 id=&#34;toa全员大爱&#34;&gt;TOA全员大爱！&lt;/h2&gt;
+&lt;p&gt;PS一下：TOA的游戏操作方面也是很棒的，相当爽快的战斗进程（除了读盘速度很痛），FOF的变化使得技能的杀伤性可观性都相当棒。至于ルーク的操作，我简直不想说他有多慢（别嫌弃人家好么，但是攻击力真的是不愧为主角。不过这个人大部分第一操作的都是ガイ様，速度真的是不用说因为角色的敏捷一直都是我在所有游戏的命，再加上场内自由移动基本可以出现无伤赢，二周目就可以在最后和总长的决斗中出现单人剧情了所以会努力再来一遍ヽ(；▽；)ノ（厨力真的是很厉害的东西呢嘻嘻嘻。&lt;/p&gt;
+</description>
+    </item>
+    
     
   </channel>
 </rss>
